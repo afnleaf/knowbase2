@@ -9,6 +9,8 @@ the notepad can not be synchronized
 
 categorize
 
+[[pokemon]]
+
 (/Computers)
 
 (/Deadlock)
