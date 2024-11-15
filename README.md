@@ -1,6 +1,41 @@
 # nobase2
-my external knowledge base
+there is no knowledge here
 
-i must start writing my thoughts down
+my external base
 
-the notepad can not be syncronized
+I must start writing my thoughts down
+
+the notepad can not be synchronized
+
+categorize
+
+(/Computers)
+
+(/Deadlock)
+
+(/Pokemon)
+
+(/Games)
+
+(/)
+
+(/Sports)
+
+(/Music)
+
+(/Movies)
+
+(/Draw)
+
+(/Math)
+
+(/Artificial Intelligence)
+
+
+
+
+
+
+
+
+
