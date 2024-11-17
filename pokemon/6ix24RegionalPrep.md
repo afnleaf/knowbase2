@@ -357,30 +357,12 @@ Maus + Rilla = Control Pair
 - Fake Out + Friend Guard
 - Terrain control with redirection
 
-## Strategic Recommendations
+----
 
-#### Technical Implementation
-- Maintain both direct and technical options
-- Develop clear decision trees
-- Practice specific sequences
+## What to do next
+- Develop clear decision trees, practice specific sequences
+- Identify key failure points, develop contingency plans
 
-#### Reliability Enhancement
-- Identify key failure points
-- Develop contingency plans
-- Maintain mode flexibility
-
-#### Integration Methods
-- Clear mode identification
-- Decision point mapping
-- Recovery path planning
-
-#### Team Building
-- Define non-orthogonal states
-- Establish pivot operator
-- Maximize value generation
-- Maintain bench pressure
-
-#### Game Play
 - Recognize current state
 - Identify valuable transitions
 - Apply pivot operator
@@ -388,3 +370,160 @@ Maus + Rilla = Control Pair
 
 #### Set optimization
 Do I make bridge bulkier or keep special attack?
+
+## Core Vulnerabilities
+
+### Ability Disruption Vectors
+**Neutralizing Gas**
+- Disables both core modes:
+  - Stamina (Yin mode disabled)
+  - Drizzle (Yang mode compromised)
+- Mitigation: None currently implemented
+- Critical Risk: High
+
+**Ability Swap/Role Play**
+- Can steal Stamina
+- Removes core defensive scaling
+- Current Counter: None
+- Risk Level: Medium
+
+**Pressure on Friend Guard**
+   - Simple targeting removes defensive layer
+   - No backup defensive support
+   - Risk Level: High
+
+#### Bad Play
+
+#### Weather Control Vulnerabilities
+
+1. **Weather Wars**
+   - Higher priority weathers override Drizzle
+   - Sun teams particularly threatening:
+     - Weakens Water moves
+     - Charizard threatens Archaludon
+   - Risk Level: High
+
+2. **Weather-Independent Threats**
+   - Team heavily relies on rain
+   - Limited damage without weather
+   - Risk Level: Medium-High
+
+### Technical Sequence Disruption
+
+1. **Protect Read Counters**
+   - Disrupts U-turn setup
+   - Breaks momentum
+   - Risk Level: Medium
+
+2. **Taunt on Pivot Turn**
+   - Blocks defensive setup
+   - Forces direct confrontation
+   - Risk Level: Medium-High
+
+## Strategic Weaknesses
+
+### Mode-Specific Vulnerabilities
+
+#### Yin Mode (Physical)
+```
+Weakness Matrix:
+- Ghost Types (Body Press blocked)
+- Accuracy reliance (Population Bomb)
+- Setup disruption (Haze/Clear Smog)
+- Position control (Parting Shot)
+```
+
+#### Yang Mode (Special)
+```
+Weakness Matrix:
+- Ground Types (pre-Soak)
+- Weather override
+- Type: Water immunity/absorption
+- Terrain interference
+```
+
+### Team Composition Gaps
+1. **Speed Control**
+   - Single Tailwind user
+   - No Trick Room counter
+   - Limited Priority moves
+   - Critical Risk: High
+
+2. **Type Coverage**
+   - Ground weakness pre-Soak
+   - Ghost type answers limited
+   - Risk Level: Medium-High
+
+3. **Mode Switching Costs**
+   - Turn investment
+   - Position vulnerability
+   - Risk Level: Medium
+
+## Specific Threat Pokemon Analysis
+
+### Systemic Threats
+
+1. **Support Disruption**
+```
+Threat Vector Analysis:
+- Imprison
+- Taunt
+- Encore
+- Follow Me
+Impact: High
+Current Counter: Limited
+```
+
+2. **Field Control**
+```
+Threat Vector Analysis:
+- Terrain control
+- Weather override
+- Room effects
+Impact: Medium-High
+Current Counter: Partial
+```
+
+## Recommended Solutions
+
+### Immediate Fixes
+
+1. **Technical Adjustments**
+   - Add secondary speed control option
+   - Implement Ghost-type counter
+   - Develop weather-independent damage
+
+2. **Role Redundancy**
+   - Secondary defensive support
+   - Alternative pivot options
+   - Backup weather control
+
+### Strategic Adaptations
+
+1. **Mode Independence**
+   - Reduce weather reliance
+   - Develop neutral game plan:ta
+   - Implement recovery options
+
+2. **Coverage Enhancement**
+   - Add Ground-type answers
+   - Improve Ghost matchup
+   - Develop anti-support tech
+
+## Implementation Priority
+
+1. **Critical Fixes**
+   - Add secondary speed control
+   - Improve Ghost matchup
+   - Develop weather-independent plan
+
+2. **Important Adjustments**
+   - Enhance defensive redundancy
+   - Add Ground coverage
+   - Improve support disruption answers
+
+3. **Optional Improvements**
+   - Recovery options
+   - Alternative items
+   - Technical move coverage
+
