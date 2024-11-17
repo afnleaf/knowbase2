@@ -1,32 +1,36 @@
 <rules>
 Available Pokemon	
-・Paldea Pokedex (Paldea Region Forms)
-・Pokemon from Pokemon HOME and Regional Forms
-・Teal Mask Pokedex
-・Indigo Disk Pokedex
-・Legendary Pokemon
-Banned Pokemon	
-・Paradox Pokemon
-・Four Treasures of Ruin
-・Legendary Pokemon
-・Mew
-・Jirachi and Deoxys
-・Phione and Manaphy
-・Darkrai
-・Shaymin (Land and Sky Formes)
-・Arceus
-・Keldeo (Base and Resolute Formes)
-・Meloetta (Aria and Pirouette Formes)
-・Hoopa (Unbound and Confined)
-・Diancie
-・Volcanion
-・Magearna
-・Zarude
-・Pecharunt
-・Koraidon and Miraidon
-・The Loyal Three
-・All Ogerpon Forms
-・All Regis
+- Paldea Pokedex (Paldea Region Forms)
+- Pokemon from Pokemon HOME and Regional Forms
+- Teal Mask Pokedex
+- Indigo Disk Pokedex
+<banned_pokemon>	
+- Paradox Pokemon
+- Four Treasures of Ruin
+- Legendary Pokemon
+- Mew
+- Jirachi and Deoxys
+- Phione and Manaphy
+- Darkrai
+- Shaymin (Land and Sky Formes)
+- Arceus
+- Keldeo (Base and Resolute Formes)
+- Meloetta (Aria and Pirouette Formes)
+- Hoopa (Unbound and Confined)
+- Diancie
+- Volcanion
+- Magearna
+- Zarude
+- Pecharunt
+- Koraidon and Miraidon
+- The Loyal Three
+- All Ogerpon Forms
+- All Regis
+- Urshifu
+- Flutter Mane
+- Iron Bundle
+</banned_pokemon>
+-
 
 Terrain does not conflict with Weather (Rain)
 
@@ -392,89 +396,75 @@ Do I make bridge bulkier or keep special attack?
    - No backup defensive support
    - Risk Level: High
 
-#### Bad Play
+### Bad Play
+Sometimes you just make bad moves. Like tailwind under trickroom.
 
-#### Weather Control Vulnerabilities
-
-1. **Weather Wars**
-   - Higher priority weathers override Drizzle
-   - Sun teams particularly threatening:
-     - Weakens Water moves
-     - Charizard threatens Archaludon
-   - Risk Level: High
-
-2. **Weather-Independent Threats**
-   - Team heavily relies on rain
-   - Limited damage without weather
-   - Risk Level: Medium-High
+### Weather Control
+**Weather Wars**
+- Slower weather setter override Drizzle on lead
+- Sun
+- Snow
+- Sand
+- Rain mirror
+- Risk Level: High
 
 ### Technical Sequence Disruption
-
-1. **Protect Read Counters**
-   - Disrupts U-turn setup
-   - Breaks momentum
-   - Risk Level: Medium
-
-2. **Taunt on Pivot Turn**
-   - Blocks defensive setup
-   - Forces direct confrontation
-   - Risk Level: Medium-High
+**Protect Read Counters**
+- Disrupts U-turn setup
+- Breaks momentum
+- Answer: self proc stamina swap
 
 ## Strategic Weaknesses
 
 ### Mode-Specific Vulnerabilities
-
-#### Yin Mode (Physical)
+**Yin Mode (Physical)**
 ```
 Weakness Matrix:
 - Ghost Types (Body Press blocked)
 - Accuracy reliance (Population Bomb)
-- Setup disruption (Haze/Clear Smog)
+- Setup disruption (Haze)
 - Position control (Parting Shot)
 ```
 
-#### Yang Mode (Special)
+**Yang Mode (Special)**
 ```
 Weakness Matrix:
 - Ground Types (pre-Soak)
 - Weather override
-- Type: Water immunity/absorption
+- Type: Water immunity/absorption (Gastrodon)
 - Terrain interference
 ```
 
 ### Team Composition Gaps
-1. **Speed Control**
-   - Single Tailwind user
-   - No Trick Room counter
-   - Limited Priority moves
-   - Critical Risk: High
+**Speed Control**
+- Single Tailwind user
+- Trick Room vulerable
+- Limited Priority moves
+- Answers:
+    - we don't always need speed control, we play around living and dishing out big damage in one turn
+    - fake out, protect to stall through trick room
 
-2. **Type Coverage**
-   - Ground weakness pre-Soak
-   - Ghost type answers limited
-   - Risk Level: Medium-High
+**Type Coverage**
+- Ghost type answers limited
+- Risk Level: Low
 
-3. **Mode Switching Costs**
-   - Turn investment
-   - Position vulnerability
-   - Risk Level: Medium
-
-## Specific Threat Pokemon Analysis
+**Mode Switching Costs**
+- Turn investment
+- Position vulnerability
+- Risk Level: Medium
 
 ### Systemic Threats
-
-1. **Support Disruption**
+**Support Disruption**
 ```
 Threat Vector Analysis:
 - Imprison
 - Taunt
 - Encore
 - Follow Me
-Impact: High
-Current Counter: Limited
+Impact: Medium
 ```
 
-2. **Field Control**
+**Field Control**
 ```
 Threat Vector Analysis:
 - Terrain control
@@ -484,46 +474,95 @@ Impact: Medium-High
 Current Counter: Partial
 ```
 
-## Recommended Solutions
+### Elements to improve on
+- Add secondary speed control option
+- Develop weather-independent plan
+- Improve Ghost matchup
+- Develop neutral game plans
+- Develop anti-support tech
+- Secondary defensive support
+- Alternative pivot options
+- Backup weather control
+- Alternative items
+- Technical move coverage
 
-### Immediate Fixes
+----
 
-1. **Technical Adjustments**
-   - Add secondary speed control option
-   - Implement Ghost-type counter
-   - Develop weather-independent damage
+## Final Pairs to add
+We need to cover all of our weaknesses 
 
-2. **Role Redundancy**
-   - Secondary defensive support
-   - Alternative pivot options
-   - Backup weather control
+### Field condition synergy
 
-### Strategic Adaptations
+**Armarouge the grassy terrain abuser**
+Armarouge @ Power Herb  
+Ability: Flash Fire  
+Level: 50  
+Tera Type: Grass  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Energy Ball
+- Psychic
+- protect
 
-1. **Mode Independence**
-   - Reduce weather reliance
-   - Develop neutral game plan:ta
-   - Implement recovery options
+Armarouge covers:
+sneasler
+ninetales-alola
+snow teams
+good in psychic terrain
+sun matchup is fun and wall its sweepers
+we turn into a grass type in grassy Terrain
+soak synergy
+meteor beam the flying types
 
-2. **Coverage Enhancement**
-   - Add Ground-type answers
-   - Improve Ghost matchup
-   - Develop anti-support tech
+im so interested in the soak angle, grass and electric moves ftw
+it forces defensive tera from a pokemon that probably doesnt even want to tera
+so proactive, impossible decision, who to tera? left or right
+forced to respons vs tailwind Too
 
-## Implementation Priority
+pelipper kinda goated.
 
-1. **Critical Fixes**
-   - Add secondary speed control
-   - Improve Ghost matchup
-   - Develop weather-independent plan
+If this team was used for reg G I wonder what restricted legendary I would use.
 
-2. **Important Adjustments**
-   - Enhance defensive redundancy
-   - Add Ground coverage
-   - Improve support disruption answers
+**Basculegion**
+- Scarf adaptability
+- works outside of rain as a late game last respects sweeper
+- can set up rain if needed
 
-3. **Optional Improvements**
-   - Recovery options
-   - Alternative items
-   - Technical move coverage
+```
+Basculegion @ Choice Scarf  
+Ability: Adaptability  
+Level: 50  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Rain Dance
+```
+
+Armarouge + Basculegion Synergy:
+├─ True Dual Win Conditions
+│  ├─ Power Herb Meteor Beam
+│  └─ Choice Scarf Last Respects
+│     (Both are actual OHKO threats)
+│
+├─ Perfect Terrain Interaction
+│  ├─ Armarouge gets Tera Grass boost
+│  └─ Basculegion gets recoil healing
+│
+├─ Different Speed Solutions
+│  ├─ Power Herb Meteor Beam ignores TR
+│  └─ Scarf threatens TR setters directly
+│
+└─ Forces Impossible Decisions
+   ├─ Can't safely Tera vs both threats
+   └─ Must respect both speed Modest
+
+Weak to dark types
+What else is this weak to?
+Does it cover our weaknesses? yes, pretty well, but might create new ones.
+
 
