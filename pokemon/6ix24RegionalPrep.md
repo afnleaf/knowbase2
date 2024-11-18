@@ -60,13 +60,14 @@ Dual win conditon mixed attacker archaludon offense:
 - soak + electro shot
 
 The idea of yin to the yang. We discovered our jung, Rillaboom using the ideas detailed in this document.
+Then we decided on Basculegion and Kingambit for testing. This is the same six we started with, but with heavy optimization.
 
 ```
 Archaludon @ Magnet  
 Ability: Stamina  
 Level: 50  
 Tera Type: Electric  
-EVs: 84 HP / 252 SpA / 172 Spe  
+EVs: 156 HP / 252 SpA / 100 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Dragon Pulse  
@@ -88,7 +89,7 @@ Jolly Nature
 Pelipper @ Focus Sash  
 Ability: Drizzle  
 Level: 50  
-Tera Type: Grass  
+Tera Type: Ghost  
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -97,7 +98,7 @@ IVs: 0 Atk
 - Tailwind  
 - Soak  
 
-Rillaboom @ Assault Vest  
+Rillaboom @ Loaded Dice  
 Ability: Grassy Surge  
 Level: 50  
 Tera Type: Poison  
@@ -107,6 +108,28 @@ Adamant Nature
 - Grassy Glide  
 - U-turn  
 - Fake Out  
+
+Basculegion @ Choice Scarf  
+Ability: Adaptability  
+Level: 50  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Rain Dance  
+
+Kingambit @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+Tera Type: Grass  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Kowtow Cleave  
+- Sucker Punch  
+- Iron Head  
+- Tera Blast  
 ```
 
 ## Dual Offensive Toolkit
@@ -444,10 +467,6 @@ Weakness Matrix:
     - we don't always need speed control, we play around living and dishing out big damage in one turn
     - fake out, protect to stall through trick room
 
-**Type Coverage**
-- Ghost type answers limited
-- Risk Level: Low
-
 **Mode Switching Costs**
 - Turn investment
 - Position vulnerability
@@ -543,6 +562,8 @@ Adamant Nature
 - Rain Dance
 ```
 
+basculegion serves the purpose of early game pivot/weather war control. It can serve to enable a play like rain dance + electroshot if they lead with their own weather, can also do the flip turn stamina proc stuff. Late game we have adaptability boosted last respects, consider how busted that damage would be. Sure we lose out on swift swim but were jolly scarf and don't care about weather. We can sweep through opponent weather teams.
+
 Armarouge + Basculegion Synergy:
 ├─ True Dual Win Conditions
 │  ├─ Power Herb Meteor Beam
@@ -565,4 +586,43 @@ Weak to dark types
 What else is this weak to?
 Does it cover our weaknesses? yes, pretty well, but might create new ones.
 
+**Kingambit**
+
+```
+Kingambit @ Assault Vest/Black Glasses/Life Orb
+Ability: Defiant  
+Level: 50  
+Tera Type: Fairy  / Dark / Grass
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Kowtow Cleave  
+- Sucker Punch  
+- Iron Head / Swords Dance / Tera Blast 
+- Low Kick / protect
+```
+
+"Having swept five of Barack's mons with booster energy iron valiant, Biden chuckled and said 'give up Barack its joever for you' Obama simply smiles and sends out his last mon. Baffled by Obama's grin, Biden tries to provoke Obama, 'your last mon he ain't doin nun lil- huh what was that?' >Kingambit's Supreme Overlord, Kingambit gained strength from the fallen. Then Biden feels true fear for the first time. 'Stand Proud Joe, we Barack'"
+
+https://www.youtube.com/watch?v=cwb86JWcavM 
+
+We need to see if Defiant is the only option or if we can somehow make Supreme Overlord work.
+
+Gambit is kind of goated though. Tera blast grass could be some fun stuff. Would do loaded dice Rilla if AV gambit.
+
+----
+
+### ToDo
+
+**Battle**
+- test team on showdown
+
+**Optimize**
+- tera types
+- items
+- every move
+- speed tiers
+- ev spreads
+
+**Matchups**
+- develop lines vs common teams
 
