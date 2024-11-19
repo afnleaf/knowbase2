@@ -395,9 +395,6 @@ Maus + Rilla = Control Pair
 - Apply pivot operator
 - Generate value while maintaining position
 
-#### Set optimization
-Do I make bridge bulkier or keep special attack?
-
 ## Core Vulnerabilities
 
 ### Ability Disruption Vectors
@@ -503,14 +500,13 @@ Current Counter: Partial
 - Alternative pivot options
 - Backup weather control
 - Alternative items
-- Technical move coverage
-
+- Unaware 
+- Tera grass, good vs our soak strat
+- Dondozo matchup, does both unaware and tera grass
 ----
 
 ## Final Pairs to add
 We need to cover all of our weaknesses 
-
-### Field condition synergy
 
 **Armarouge the grassy terrain abuser**
 Armarouge @ Power Herb  
@@ -552,9 +548,9 @@ If this team was used for reg G I wonder what restricted legendary I would use.
 ```
 Basculegion @ Choice Scarf  
 Ability: Adaptability  
-Level: 50  
+Level: 49  
 Tera Type: Water  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+EVs: 251 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Wave Crash  
 - Last Respects  
@@ -608,6 +604,27 @@ https://www.youtube.com/watch?v=cwb86JWcavM
 We need to see if Defiant is the only option or if we can somehow make Supreme Overlord work.
 
 Gambit is kind of goated though. Tera blast grass could be some fun stuff. Would do loaded dice Rilla if AV gambit.
+
+
+**Dragonite**
+Helene, Hurricanist, Bong Smoker (Haze)
+```
+Dragonite @ Eject Pack  
+Ability: Inner Focus  
+Level: 50  
+Tera Type: Steel  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Haze  
+- Draco Meteor  
+- Tailwind
+```
+Eject Pack pivot
+Inner focus protects from intimidate forcing Pack
+Immune to taunt and fake out, guarantee tailwind
+Helps our dondozo matchup, strong in general
 
 ----
 
