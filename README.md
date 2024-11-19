@@ -12,7 +12,7 @@ the notepad can not be synchronized
 ## categories
 
 - games
-    - [[pokemon]]
+    - [[/pokemon/pokemon]]
     - [[deadlock]]
 - [[computers]]
     - [[ai]]
