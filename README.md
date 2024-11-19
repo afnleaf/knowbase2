@@ -1,37 +1,25 @@
 # nobase2
 there is no knowledge here
 
-my external base
+just the external base
 
-I must start writing my thoughts down
+a mirror of ideas filtered through the vast vector space of everything that was ever written.
+
+must start writing thoughts down
 
 the notepad can not be synchronized
 
-categorize
+## categories
 
-[[pokemon]]
+- games
+    - [[pokemon]]
+    - [[deadlock]]
+- [[computers]]
+    - [[ai]]
+- media
+    - [[music]]
+    - [[film]]
 
-(/Computers)
-
-(/Deadlock)
-
-(/Pokemon)
-
-(/Games)
-
-(/)
-
-(/Sports)
-
-(/Music)
-
-(/Movies)
-
-(/Draw)
-
-(/Math)
-
-(/Artificial Intelligence)
 
 
 
