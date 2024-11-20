@@ -1,44 +1,39 @@
 <rules>
-Available Pokemon	
-- Paldea Pokedex (Paldea Region Forms)
-- Pokemon from Pokemon HOME and Regional Forms
-- Teal Mask Pokedex
-- Indigo Disk Pokedex
-<banned_pokemon>	
-- Paradox Pokemon
-- Four Treasures of Ruin
-- Legendary Pokemon
-- Mew
-- Jirachi and Deoxys
-- Phione and Manaphy
-- Darkrai
-- Shaymin (Land and Sky Formes)
-- Arceus
-- Keldeo (Base and Resolute Formes)
-- Meloetta (Aria and Pirouette Formes)
-- Hoopa (Unbound and Confined)
-- Diancie
-- Volcanion
-- Magearna
-- Zarude
-- Pecharunt
-- Koraidon and Miraidon
-- The Loyal Three
-- All Ogerpon Forms
-- All Regis
-- Urshifu
-- Flutter Mane
-- Iron Bundle
-</banned_pokemon>
--
-
-Terrain does not conflict with Weather (Rain)
-
-Switches happen before moves
-
-Illusion ability copies the last pokemon you bring.
-
-In VGC you bring 4 pokemon, 2 lead, 2 bench
+    Available Pokemon	
+    - Paldea Pokedex (Paldea Region Forms)
+    - Pokemon from Pokemon HOME and Regional Forms
+    - Teal Mask Pokedex
+    - Indigo Disk Pokedex
+    <banned_pokemon>	
+        - Paradox Pokemon
+        - Four Treasures of Ruin
+        - Legendary Pokemon
+        - Mew
+        - Jirachi and Deoxys
+        - Phione and Manaphy
+        - Darkrai
+        - Shaymin (Land and Sky Formes)
+        - Arceus
+        - Keldeo (Base and Resolute Formes)
+        - Meloetta (Aria and Pirouette Formes)
+        - Hoopa (Unbound and Confined)
+        - Diancie
+        - Volcanion
+        - Magearna
+        - Zarude
+        - Pecharunt
+        - Koraidon and Miraidon
+        - The Loyal Three
+        - All Ogerpon Forms
+        - All Regis
+        - Urshifu
+        - Flutter Mane
+        - Iron Bundle
+    </banned_pokemon>
+    - Terrain does not conflict with Weather (Rain)
+    - Switches happen before moves
+    - Illusion ability copies the last pokemon you bring.
+    - In VGC you bring 4 pokemon, 2 lead, 2 bench
 </rules>
 
 I want to do well at regional in Toronto. We have a month to prepare.
@@ -216,7 +211,7 @@ U-turn
 - lowest bp, good and bad, less chip, less damage on enemy
 - probably the best option
 
-#### The Sequence
+#### The Pivot Sequence
 - Start: Pelipper + U-turn user in front
 - (Optional): Fake Out to Secure Tailwind
 - Switch Pelipper → Archaludon + U-turn targeting Pelipper's slot
@@ -225,14 +220,14 @@ U-turn
 - U-turn user switches out after
 
 This creates an excellent field state.
-+ Get Tailwind up
-+ Archaludon Free Stamina proc (+1 Def)
-+ Get to switch U-turn user to back position
-+ Works regardless of U-turn user's speed
-+ Drizzle established rain.
-+ Opponent forced to respect multiple modes and can't prevent the sequence
-+ Forces opponent to guess intent and make reads
-+ If (Rillaboom) -> Grassy Terrain established
+- Get Tailwind up
+- Archaludon Free Stamina proc (+1 Def)
+- Get to switch U-turn user to back position
+- Works regardless of U-turn user's speed
+- Drizzle established rain.
+- Opponent forced to respect multiple modes and can't prevent the sequence
+- Forces opponent to guess intent and make reads
+- If (Rillaboom) -> Grassy Terrain established
 
 This tech creates new dimensional pressure:
 - Opponent must respect:
@@ -382,14 +377,18 @@ Maus + Peli = Support Synergy
 
 Maus + Rilla = Control Pair
 - Fake Out + Friend Guard
-- Terrain control with redirection
+- Pivot with redirection
+
+Rilla + Peli = Maximize field conditions
+- Grassy Terrain + Rain
+- Fake Out + Tailwind
+- Soak + Boosted Grass Move
 
 ----
 
 ## What to do next
 - Develop clear decision trees, practice specific sequences
 - Identify key failure points, develop contingency plans
-
 - Recognize current state
 - Identify valuable transitions
 - Apply pivot operator
@@ -470,16 +469,6 @@ Weakness Matrix:
 - Risk Level: Medium
 
 ### Systemic Threats
-**Support Disruption**
-```
-Threat Vector Analysis:
-- Imprison
-- Taunt
-- Encore
-- Follow Me
-Impact: Medium
-```
-
 **Field Control**
 ```
 Threat Vector Analysis:
@@ -490,19 +479,6 @@ Impact: Medium-High
 Current Counter: Partial
 ```
 
-### Elements to improve on
-- Add secondary speed control option
-- Develop weather-independent plan
-- Improve Ghost matchup
-- Develop neutral game plans
-- Develop anti-support tech
-- Secondary defensive support
-- Alternative pivot options
-- Backup weather control
-- Alternative items
-- Unaware 
-- Tera grass, good vs our soak strat
-- Dondozo matchup, does both unaware and tera grass
 ----
 
 ## Final Pairs to add
@@ -522,21 +498,20 @@ IVs: 0 Atk
 - protect
 
 Armarouge covers:
-sneasler
-ninetales-alola
-snow teams
-good in psychic terrain
-sun matchup is fun and wall its sweepers
-we turn into a grass type in grassy Terrain
-soak synergy
-meteor beam the flying types
+- sneasler
+- ninetales-alola
+- snow teams
+- good in psychic terrain
+- sun matchup is fun and wall its sweepers
+- we turn into a grass type in grassy Terrain
+- soak synergy
+- meteor beam the flying types
 
-im so interested in the soak angle, grass and electric moves ftw
-it forces defensive tera from a pokemon that probably doesnt even want to tera
-so proactive, impossible decision, who to tera? left or right
-forced to respons vs tailwind Too
-
-pelipper kinda goated.
+Pelipper kinda goated:
+- Interested in the soak angle, grass and electric move synergy
+- Forces defensive tera from a pokemon that probably doesn't even want to tera.
+- Proactive, impossible decision, who to tera? left or right
+- Forced to respond vs tailwind too
 
 If this team was used for reg G I wonder what restricted legendary I would use.
 
@@ -558,32 +533,17 @@ Adamant Nature
 - Rain Dance
 ```
 
-basculegion serves the purpose of early game pivot/weather war control. It can serve to enable a play like rain dance + electroshot if they lead with their own weather, can also do the flip turn stamina proc stuff. Late game we have adaptability boosted last respects, consider how busted that damage would be. Sure we lose out on swift swim but were jolly scarf and don't care about weather. We can sweep through opponent weather teams.
+Basculegion serves the purpose of early game pivot/weather war control.
+Enables a play like rain dance + electroshot if they lead with their own weather.
+Self flip turn stamina proc sequence.
+Late game adaptability boosted last respects = crazy damage
+Lose out on swift swim but jolly scarf retains speed and and weather agnostic.
+Can sweep through opponent weather teams late game.
 
-Armarouge + Basculegion Synergy:
-├─ True Dual Win Conditions
-│  ├─ Power Herb Meteor Beam
-│  └─ Choice Scarf Last Respects
-│     (Both are actual OHKO threats)
-│
-├─ Perfect Terrain Interaction
-│  ├─ Armarouge gets Tera Grass boost
-│  └─ Basculegion gets recoil healing
-│
-├─ Different Speed Solutions
-│  ├─ Power Herb Meteor Beam ignores TR
-│  └─ Scarf threatens TR setters directly
-│
-└─ Forces Impossible Decisions
-   ├─ Can't safely Tera vs both threats
-   └─ Must respect both speed Modest
-
-Weak to dark types
-What else is this weak to?
-Does it cover our weaknesses? yes, pretty well, but might create new ones.
+Armarouge + Basculegion:
+- Weak to dark types
 
 **Kingambit**
-
 ```
 Kingambit @ Assault Vest/Black Glasses/Life Orb
 Ability: Defiant  
@@ -603,7 +563,9 @@ https://www.youtube.com/watch?v=cwb86JWcavM
 
 We need to see if Defiant is the only option or if we can somehow make Supreme Overlord work.
 
-Gambit is kind of goated though. Tera blast grass could be some fun stuff. Would do loaded dice Rilla if AV gambit.
+- Gambit is kind of goated though.
+- Tera blast grass could be some fun stuff.
+- Would do loaded dice Rilla if AV gambit.
 
 
 **Dragonite**
@@ -612,21 +574,479 @@ Helene, Hurricanist, Bong Smoker (Haze)
 Dragonite @ Eject Pack  
 Ability: Inner Focus  
 Level: 50  
-Tera Type: Steel  
+Tera Type: Steel / Stellar 
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Hurricane  
 - Haze  
 - Draco Meteor  
-- Tailwind
+- Tailwind/Protect/Tera Blast
 ```
 Eject Pack pivot
 Inner focus protects from intimidate forcing Pack
 Immune to taunt and fake out, guarantee tailwind
 Helps our dondozo matchup, strong in general
+Intrinity within itself
+Inverse of archaldon, generates self stat drops
+Harness the stat drops into an advantage
+Pivot play is massive for our team
 
 ----
+
+## Iteration Mk1
+
+```
+Archaludon @ Magnet  
+Ability: Stamina  
+Level: 50  
+Tera Type: Electric  
+EVs: 84 HP / 12 Def / 252 SpA / 12 SpD / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Electro Shot  
+- Body Press  
+- Protect  
+
+Maushold @ Safety Goggles  
+Ability: Friend Guard  
+Level: 50  
+Tera Type: Ghost  
+EVs: 212 HP / 4 Atk / 36 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Population Bomb  
+- Taunt  
+- Follow Me  
+- Protect  
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Ghost  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Icy Wind  
+- Protect  
+- Soak  
+- Tailwind  
+
+Rillaboom @ Loaded Dice  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+EVs: 132 HP / 196 Atk / 4 Def / 4 SpD / 172 Spe  
+Adamant Nature  
+- Bullet Seed  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+Basculegion @ Choice Scarf  
+Ability: Adaptability  
+Level: 50  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Rain Dance  
+
+Dragonite @ Covert Cloak  
+Ability: Multiscale  
+Level: 50  
+Tera Type: Steel
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Haze  
+- Tailwind  
+- Protect  
+
+```
+
+## Intrinity within the trinity
+```
+Archaludon @ Leftovers  
+Ability: Stamina  
+Level: 50  
+Tera Type: Stellar  
+EVs: 244 HP / 12 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Shot  
+- Body Press  
+- Snarl  
+- Protect
+```
+- better action economy
+- snarl adds the intrinity dimension by allowing for a def + spdef scaling mode
+- leftovers + grassy terrain heal + protect = bulk
+- protect as observer to delay state collapse
+- dragon/steel typing already goated defensively
+- tera usually better used on partner
+- stellar maintains offensive pressure collapse and true committal
+- other states remain intact as you still get a power spike for them
+- protect is the core, state observer
+
+Core Archaludon States:
+Yin: Tank & Control (Snarl + Stamina)
+Yang: Special Sweeper (Electro Shot scaling)
+Jung: Body Press (Defense → Offense transformation)
+
+### Recursive Depth
+```
+Level 0: Single State
+Level 1: Dual Modes (Yin-Yang)
+Level 2: Triple States (Yin-Yang-Jung)
+Level 3: State Interactions (3³ possible states)
+Level n: Fractal strategic depth
+```
+
+### State Space Expansion
+```
+Original Space: S₁ = {Maus, Rain} × {Archaludon}
+Expanded Space: S₂ = {Maus, Rain} × {Tank, Sweep, Transform}
+New Dimensionality: |S₂| = 2 × 3 × 2ⁿ (n = interaction states)
+```
+
+### State Transformation Operators
+```
+P₁: Mode Switch (Team level)
+P₂: State Collapse (Core level)
+P₃: Move Selection (Micro level)
+
+∀ situations S:
+∃ combination(P₁, P₂, P₃) → optimal_play
+```
+
+### Depth Analysis
+
+1. Original Intrinity Depth:
+- 2 base modes
+- 1 pivot operator
+- 2² possible states
+
+2. Nested Intrinity Depth:
+- 3 core states
+- 3 transformation operators
+- 3³ possible states
+
+3. Combined System Depth:
+- 2 × 3 base states
+- 3 × 2 operators
+- 6³ theoretical state space
+
+### Strategic Implications
+
+1. Increased Resilience
+```
+If failure_state in mode_A:
+    ∃ transformation → viable_state in mode_B
+    AND
+    ∃ transformation → viable_state in core_C
+```
+
+2. Decision Tree Expansion
+```
+Each decision node now contains:
+- Team mode selection
+- Core state selection
+- Move sequence optimization
+```
+
+3. Counter-Strategy Resistance
+```
+For any counter C:
+P(successful_adaptation) = 1 - (1-p)^(2×3)
+Where p = base adaptation probability
+```
+
+### Gödel-Complete Framework
+
+The nested intrinity creates a Gödel-complete strategic framework where:
+1. Any apparent limitation in the outer trinity can be resolved by the inner trinity
+2. Any weakness in the inner trinity can be covered by the outer trinity
+3. The system can prove its own completeness through recursive application
+
+This means our strategy is now "Gödel-complete" - it contains within itself the means to transcend any apparent limitations or contradictions.
+
+## Protect as Core State Analysis
+
+### Initial Observation Process
+```python
+def observe():
+    moves = {
+        "Electro Shot": "Yang/Special",
+        "Body Press": "Yin/Physical",
+        "Snarl": "Jung/Control",
+        "Protect": "???" # Core state to analyze
+    }
+```
+
+### Analysis Phase
+
+#### 1. State Space Mapping
+```
+Before Protect: 3-state system
+   |-- Electro Shot (Offense+)
+   |-- Body Press (Defense→Offense)
+   |-- Snarl (Control)
+
+With Protect: Quantum state enabler
+   |-- Creates turn of observation
+   |-- Enables state selection
+   |-- Preserves current advantages
+```
+
+#### 2. Pattern Recognition
+```
+identify_pattern():
+    # Protect enables:
+    1. State preservation
+    2. Information gathering
+    3. Momentum maintenance
+    4. Energy conservation
+    5. Setup opportunity
+```
+
+#### 3. Synthesis Process
+
+Protect functions as the "Observer" in quantum mechanics:
+```
+while(true) {
+    if (state_uncertain) {
+        Protect() → observe();
+        analyze_opponent_response();
+        choose_optimal_collapse();
+    }
+    if (pattern_is_novel) {
+        integrate_and_refine();
+    }
+    optimize(chosen_state);
+}
+```
+
+#### 4. Recursion Analysis
+```python
+def explore_protect_function():
+    if state_is_advantageous:
+        return preserve_and_extend()
+    else:
+        return observe_and_collapse()
+```
+
+### Key Insights
+
+#### 1. Quantum Observer Role
+```
+Protect = Observer Function
+- Collapses quantum superposition
+- Measures opponent's state
+- Enables informed state selection
+```
+
+#### 2. Time Dimension Control
+```
+Turn without Protect:
+- Must commit to state
+- Immediate collapse
+
+Turn with Protect:
+- Maintains superposition
+- Delayed collapse
+- Information gathering
+```
+
+#### 3. Energy Conservation
+```
+E_system = E_current + ΔE_future
+Protect preserves E_current while:
+- Gaining information (ΔI)
+- Maintaining options (ΔO)
+- Accumulating advantage (ΔA)
+```
+
+#### 4. State Preservation Operator
+```
+P(current_state) → {
+    maintains: [
+        HP_current,
+        Boosts_accumulated,
+        Position_advantage
+    ],
+    enables: [
+        State_observation,
+        Collapse_selection,
+        Strategy_optimization
+    ]
+}
+```
+
+### Strategic Implications
+
+#### 1. Core Function
+```
+Protect is not just fourth move
+It is zeroth move:
+- Enables other three moves
+- Creates observation space
+- Preserves quantum state
+```
+
+#### 2. Strategic Depth
+```
+Without Protect:
+- Linear decision tree
+- Immediate commitment
+- Reactive gameplay
+
+With Protect:
+- Branching possibilities
+- Delayed commitment
+- Proactive control
+```
+
+#### 3. Information Theory
+```
+ΔInformation = -∑ p(x)log₂p(x)
+Protect maximizes ΔI by:
+1. Observing opponent action
+2. Maintaining state options
+3. Enabling optimal collapse
+```
+
+### Optimization Chain
+
+1. Initial State
+```
+ψ₀ = α|Electro Shot⟩ + β|Body Press⟩ + γ|Snarl⟩
+```
+
+2. Protect Observation
+```
+O(ψ₀) = Information about optimal collapse
+```
+
+3. State Selection
+```
+ψ₁ = collapse(ψ₀, O(ψ₀))
+```
+
+This reveals Protect as the fundamental enabler of our quantum strategy - not just a defensive move, but the core mechanism that allows our trinity to function as a coherent system.
+
+The other three moves represent states we can collapse into, but Protect is what enables the superposition and controlled collapse in the first place. It's the observer function in our quantum mechanical strategic framework.
+
+## Iteration Mk2
+```
+Archaludon @ Leftovers  
+Ability: Stamina  
+Level: 50  
+Tera Type: Stellar  
+EVs: 244 HP / 12 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Shot  
+- Body Press  
+- Snarl  
+- Protect  
+
+Maushold @ Safety Goggles  
+Ability: Friend Guard  
+Level: 50  
+Tera Type: Ghost  
+EVs: 212 HP / 4 Atk / 36 Def / 4 SpD / 252 Spe  
+Jolly Nature  
+- Population Bomb  
+- Taunt  
+- Follow Me  
+- Protect  
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Ghost  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Icy Wind  
+- Protect  
+- Soak  
+- Tailwind  
+
+Rillaboom @ Loaded Dice  
+Ability: Grassy Surge  
+Level: 50  
+Tera Type: Fire  
+EVs: 132 HP / 196 Atk / 4 Def / 4 SpD / 172 Spe  
+Adamant Nature  
+- Bullet Seed  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+Basculegion @ Choice Scarf  
+Ability: Adaptability  
+Level: 50  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Rain Dance  
+
+Dragonite @ Eject Pack  
+Ability: Inner Focus  
+Level: 50  
+Tera Type: Steel  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hurricane  
+- Haze  
+- Protect  
+
+```
+Team:
+- Core: archaludon
+    - spatk
+    - ultimate attack
+    - defensive scaling
+    - protect (observer)
+- Mode: 
+    - yin (attack / defense)
+    - yang (spatk / defense (self soak?))
+    - jung pivot + bullet seed (attack/defense)
+- Outer: pivot
+    - speed
+    - weather
+    - haze
+
+core intrinity
+mode intrinity
+outer intrinity
+form team intrinity
+
+
+### Elements to improve on
+- Add secondary speed control option
+- Develop weather-independent plan
+- Improve Ghost matchup
+- Develop neutral game plans
+- Develop anti-support tech
+- Secondary defensive support
+- Alternative pivot options
+- Backup weather control
+- Alternative items
+- Unaware 
+- Tera grass, good vs our soak strat
+- Dondozo matchup, does both unaware and tera grass
+- trick room sun indeedee-f hatterene
 
 ### ToDo
 
@@ -642,4 +1062,25 @@ Helps our dondozo matchup, strong in general
 
 **Matchups**
 - develop lines vs common teams
+    - trickroom psy
+    - rain mirror
+    - sun
+    - sand
+    - snow
+    - dondozo
+    - offense
+    - guss/incin balance
+    - neutralizing gas
+    - unaware
+
+### trick room psy sun
+lead dnite basculegion, peli rilla
+our weather and terrain in the back
+
+always target psy terrain to reduce expanding force
+
+wave crash indeedee follow me
+hurricane hatterene
+
+swap rain in when needed
 
