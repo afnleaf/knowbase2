@@ -61,4 +61,12 @@ Simple HTML/PDF Generation → Output File
 - PDF generation library (if PDF output needed)
 - Simple progress reporting in CLI
 
+## tech
+colpali
+
+docai
+
+https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+
+
 
