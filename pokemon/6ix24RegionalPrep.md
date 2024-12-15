@@ -1084,3 +1084,85 @@ hurricane hatterene
 
 swap rain in when needed
 
+## Toronto Regional Recap
+
+The final revision that we brought
+```
+Archaludon @ Leftovers  
+Ability: Stamina  
+Level: 50  
+Tera Type: Poison  
+EVs: 84 HP / 44 Def / 116 SpA / 132 SpD / 132 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Shot  
+- Body Press  
+- Flash Cannon  
+- Protect  
+
+Maushold @ Safety Goggles  
+Ability: Friend Guard  
+Level: 50  
+Shiny: Yes  
+Tera Type: Ghost  
+EVs: 212 HP / 4 Atk / 4 Def / 36 SpD / 252 Spe  
+Jolly Nature  
+- Population Bomb  
+- Taunt  
+- Follow Me  
+- Protect  
+
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+Level: 50  
+Tera Type: Stellar  
+EVs: 4 HP / 4 Def / 244 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Weather Ball  
+- Tailwind  
+- Protect  
+
+Rillaboom @ Loaded Dice  
+Ability: Grassy Surge  
+Level: 50  
+Shiny: Yes  
+Tera Type: Grass  
+EVs: 4 HP / 220 Atk / 28 Def / 4 SpD / 252 Spe  
+Adamant Nature  
+- Bullet Seed  
+- Grassy Glide  
+- U-turn  
+- Fake Out  
+
+Basculegion @ Mystic Water  
+Ability: Swift Swim  
+Level: 50  
+Tera Type: Water  
+EVs: 4 HP / 244 Atk / 4 Def / 4 SpD / 252 Spe  
+Adamant Nature  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Protect  
+
+Hydreigon @ Scope Lens  
+Ability: Levitate  
+Level: 50  
+Tera Type: Steel  
+EVs: 4 HP / 4 Def / 252 SpA / 12 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Snarl  
+- Draco Meteor  
+- Focus Energy  
+- Protect  
+```
+
+We went 4-4, 4 wins 4 losses after going down 0-2 and then 1-4 by round 5. The comeback was real. My original goal was to get to 3 wins but I managed to seriously improve last years score of 2-5.
+
+We lost fair and square to all our opponents. Every game was winnable and came down to misplays on my end. Hydreigon was heavily used and feels like the perfect final piece to the puzzle. Solving ghost issues, dondozo (who we never encountered) and dumpstering the trick room matchup. Were kinda lucky we got to play vs 2 TR teams but hey, thats what happens. I think the weakest this team looks is when vs gholdengo balance + fighting type. Then we have issues for our ghost answers. Sneasler + Gholdengo was a problem. 
+
+GGs onto Reg G
+
