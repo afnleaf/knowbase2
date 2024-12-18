@@ -45,18 +45,23 @@ I will put more hours into this game to try and learn to love it.
 
 Maps:
 
+
 dog
 fort de vaux
 argonne forest
-hill map
 verdun heights
+suissons (fog)
 amiens
+suez
+fao fortress
 
 ok
 passchendaele
+suissons (clear)
 monte grappa
+rupture
 
-god
+good
 ballroom blitz
 
 
