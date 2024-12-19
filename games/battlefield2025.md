@@ -46,20 +46,27 @@ I will put more hours into this game to try and learn to love it.
 Maps:
 
 
+mega ass
+tsarystin
+suissons (fog)
+argonne forest (fog)
+zeebrugge
+
 dog
 fort de vaux
-argonne forest
+argonne forest (clear)
 verdun heights
-suissons (fog)
 amiens
 suez
 fao fortress
+empire's edge (fog)
 
 ok
 passchendaele
 suissons (clear)
 monte grappa
 rupture
+empire's edge (clear)
 
 good
 ballroom blitz
