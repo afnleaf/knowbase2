@@ -76,8 +76,7 @@ Miraidon gets fairy coverage for Dragon types or Draco Meteor
 
 ### Regulation G Metagame
 
-The current most popular set for Miraidon is CHoice Specs and going for slow powerful pivot with Modest or TImid for speed.
-
+The current most popular set for Miraidon is CHoice Specs and going for slow powerful pivot with Modest or Timid for speed.
 
 **Luca Ceribelli -  2024 VGC World Championship Winning Team**
 https://victoryroad.pro/2024/09/22/luca-ceribelli-worlds-report/
@@ -160,42 +159,29 @@ I wish to push the meta further and use non standard items.
 
 I want the power of specs without the drawbacks.
 
-# Transcending Choice Specs Miraidon: A Gödel Analysis
-
-## Current System Axioms
-1. Choice Specs provides maximum power at the cost of move flexibility
-2. Armor Tail/Fake Out protection is required to maintain momentum
-3. Electric Terrain enables maximum damage output
-4. Item slots are constrained by VGC rules (no duplicates)
-
-## Identifying System Incompleteness
-
-### Choice Specs Limitations
 ```
+- Choice Specs provides maximum power at the cost of move flexibility
+- Armor Tail/Fake Out protection is required to maintain momentum
+
 State Collapse Problem:
 - Locking into moves creates predictability
 - Loss of tactical flexibility
 - Forces suboptimal plays when situation changes
 - Cannot switch moves to adapt to field changes
-```
 
-### Hidden Contradictions
-1. Miraidon wants maximum power (Choice Specs)
-2. BUT also wants flexibility (move choice)
-3. AND needs protection from priority
-4. WHILE maintaining speed control
+- Miraidon wants maximum power (Choice Specs)
+- BUT also wants flexibility (move choice)
+- AND needs protection from priority
+- WHILE maintaining speed control
+```
 
 The system cannot prove its own consistency within these constraints.
 
-## Expanding the Axioms
-
-### Power Without Choice Lock
 Potential Alternative Items:
 - Life Orb: 30% power boost without choice lock
 - Expert Belt: 20% on super effective moves
 - Booster Energy: Stats + flexibility
 
-### Solving Priority Protection
 ```
 Current Solutions:
 Farigiraf (Armor Tail) [Used]
@@ -208,13 +194,10 @@ Follow Me without item lock
 Counter-priority strategies
 ```
 
-## Breaking Through Incompleteness
-
-### New Team Structure Theorem
-1. If Miraidon can maintain 80-90% of Choice Specs power
-2. While gaining move flexibility
-3. And solving priority protection
-4. Then the system becomes more complete
+- If Miraidon can maintain 80-90% of Choice Specs power
+- While gaining move flexibility
+- And solving priority protection
+- Then the system becomes more complete
 
 This is where I come into play and re-oarganize the puzzle pieces. Dialectial analysis.
 
@@ -249,3 +232,36 @@ Scarf Pelipper, gives us weather control, an element of board control that could
 Maybe inteleon as some sort of fast screens soak setter with water/ice coverage or speed control with icy wind
 
 Scarf adaptabilitty Basculegion.
+
+## Other Options
+
+Dragon Cheer support + Scope Lens Miraidon
+- spam overheat/draco
+- crit is 1.5 same as specs
+- no priority protection
+- allows for flexibility in move choice
+- inflexible setup required
+
+Quark Drive
+Iron Boulder - Quick Guard, No Power Boost
+Iron Bundle - Speed Control, Encore
+Iron Crown - Quick Guard, Metal Sound
+Iron Hands - Self power, quick guard?
+Iron Jugulis - Dragon Cheer, Tailwind, Metal Sound
+Iron Leaves - Self power, quick guard
+Iron Moth - Self power, Metal Sound, Helping Hand
+Iron Thorns - nothing
+Iron Treats - metal sounds
+Iron Valiant - Wide Guard, Quick Guard, Encore, Disable
+
+Electric Seed Unburden
+Drifblim - Tailwind, Fake Out Immune, Icy Wind, Helping Hand
+Sneasler - Quick Guard, Attacker
+Hawlucha - Attacker
+Hitmonlee - Fake Out, Wide Guard, Quick Guard
+Sceptile - Dragon Cheer, Shed Tail
+
+Other
+Surge Surfer Raichu - Fake Tears, Electro Web, Nuzzle, Screen
+Smeargle/Alcremie - Decorate
+
