@@ -406,6 +406,80 @@ This synthesis:
 - Enables true innovation
 - Creates measurable outcomes
 
+## Examples
+
+"Feudalism provides the food serfs eat."
+
+"Colonialism is necessary, the monarchy is good for everyone."
+
+"You're alwayus gonna have chattel slavery, it's human nature."
+
+Capitalist engages in:
+- job cuts
+- mergers and aquisitions of small business competitors (monopolization)
+- increase prices, lower wages, blame "inflation", meanwhile profit go up (60% of americans live paycheck to paycheck)
+
+under the current capitalist system the owners own and control the means of production (tools, machines, materials, etc) and exploit workers for their surplus labour value as profit. The workers do not own the means of production and must sell their labour power to survive.
+
+There is no two party system in republicans and democrats, the owners own both of them. In reality there are two groups, the owners and the workers. 
+The goal of the owners to remove regulations on markets, this includes:
+- health and safety measures
+- environmental protections
+- worker's rights
+- trade regulations
+- anti trust laws
+- price controls
+- corporate taxes
+- public services
+- social programs
+
+Examples of the above: (need sources)
+- PFAS forever chemicals found in the blood of 87% of Americans
+- Microplastics found in the blood of 77% of humans tested
+- Average american consumes more than 70,000 particles of microplastics per year
+- The US is the only developed country with no statuatory paid leave
+- The US is the one of only six countries in the world without a national paid parental leave policy
+- In December 2022, Joe Biden blocked a rail strike organized by a dozen unions representing 115,000 workers. Two months, later a train derailment caused by conditions rail workers had protested occured in East Palestine, Ohio leading to a chemical and environmental disaster.
+- The rail company responsible, Norfolk Southern, is one of many corporate doners funding the construction of cop city (Georgia)
+- In the last 2 years, Republicans in at least 10 states introduced or passed laws rolling back child labour protections.
+- In June 2023, the supreme coutry ruling in Glacier Northwest vs International Brotherhood of Teamsters established that companies may sue workers or unions for property damage as part of a strike. This ruling serves to intimidate workers from hurting their employer's profits by withholding their labor.
+
+Commodification of Human needs:
+- Air
+- Water
+- Food
+- Housing
+- Healthcare
+- Clothing
+- Education
+- Transit
+- Land
+- Energy
+- Infrastructure
+- Technology
+- Arts
+- Social Relations
+- Sex
+- Ideas and Knowledge
+
+The capitalist seeks to commodify all of these basic needs. Goods and services are produced as commodities to be bought and sold on the "free" market, meaning they're produced for their exchange value rather than use value. This effectively creates, overproduction, waste, artifical scarcity, planned obsolescence and economic crises.
+
+With labor itself taking commodity-form and state-protected private property ownership of the means of production, workers are forced to sell their labor power for survival, are alienated from the wealth they create, and are exploited for their surplus labor value exporpriated as profit.
+
+Examples:
+- 45,000 americans die each year due to lack of health insurance
+- 55% of american adults have medical debt
+- 1 in 5 americans have student loan debt
+- there are 27 empty US properties per homeless american
+- While 34 million americans are food insecure, daily US food waste amounts to 356 million meals (per year?)
+- 30% of four-year college students and 40% of two-year college students experience food insecurity
+- nearly 40% of all US food is wasted
+- 1 in 4 US households experience energy insecurity, meaning they face challenges paying elctric bills or sustaining adequate heating or cooling their homes
+
+
+Now, with the attention economy, the capitalist seeks to commodify the very essence of your being, your soul.
+
+Imperialism to conquer the global south, eliminate their national sovereignty, self-determination and industry.
 
 ## To Work on 
 
