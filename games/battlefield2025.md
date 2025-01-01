@@ -45,12 +45,12 @@ I will put more hours into this game to try and learn to love it.
 
 Maps:
 
-
 mega ass
 tsarystin
 suissons (fog)
 argonne forest (fog)
 zeebrugge
+volga river
 
 dog
 fort de vaux
@@ -60,6 +60,7 @@ amiens
 suez
 fao fortress
 empire's edge (fog)
+brusilov keep
 
 ok
 passchendaele
