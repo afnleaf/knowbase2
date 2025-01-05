@@ -732,6 +732,12 @@ where:
     Innovation_Rate = f(Knowledge_Access)
 ```
 
+## Bird Flu 2025
+https://www.scientificamerican.com/article/bird-flu-has-spread-out-of-control-after-mistakes-by-u-s-government-and/
+
+"I don't know what word in the English language I can't find one that applies to people who are willing to sacrifice the literal existence of organized human life so they can put a few more dollars into highly overstuffed pockets. The word evil doesn't begin to approach it." - Noam Chomsky
+
+
 ## To Work on 
 
 Concept of freedom, positive/negative liberties.
