@@ -4,6 +4,20 @@ data in -> function -> data out
 
 you take some type of data, you manipulate it some way, you get the output
 
+## how python works
+this is about as low level as we will go
+
+there is an interpreter that is running to turn your code into machine code that the CPU runs
+
+python is dynamically typed, which means you don't have to give labels to your variables like in other languages
+
+so under the hood, the interpreter has to figure out what type your data is
+
+this makes python slower but very easy to write
+
+you are learning it because of how easy it is to write
+
+there are libraries you can use that call fast code
 
 ## representing data
 - variables
