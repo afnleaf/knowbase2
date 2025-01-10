@@ -28,6 +28,8 @@ there are libraries you can use that call fast code
 ## control flow
 - if/else/elif, switch
 - loops
+- functions
+- modules
 
 ## environment
 - python interpreter
