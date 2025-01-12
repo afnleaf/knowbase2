@@ -7,6 +7,43 @@ They run even worse under libertarianism, eg Argentina. 54% of the population un
 
 Idea: A socialist system allows for the freest markets possible.
 
+# format
+I. Theoretical Foundation
+   - Core Axioms
+   - Mathematical Framework
+   - Key Definitions
+   - System Requirements
+
+II. Market Analysis
+    - Traditional Market Theory Critique
+    - Elasticity Problems
+    - Basic Needs Markets
+    - Information Asymmetry
+
+III. Proposed Solutions
+     - Basic Needs Decommodification
+     - Enterprise Democracy
+     - Information Transparency
+     - Resource Sustainability
+
+IV. Implementation Framework
+    - Minimal Sufficient Structure
+    - Core Rules
+    - Expected Outcomes
+    - Transition Strategy
+
+V. Historical Analysis & Evidence
+   - Past Attempts
+   - Current Examples
+   - Case Studies
+   - Predictive Models
+
+VI. Counter-Arguments & Synthesis
+    - Common Objections
+    - System Resilience
+    - Evolutionary Pathway
+
+
 ### Super TLDR
 If we try full on socialism for like 20% of the economy, specifically innefficient inelastic basic needs markets. We can have freer markets across the board for everything else. 
 
