@@ -1,42 +1,61 @@
-# The Intrinity Framework: A Theoretical Analysis
+# The Intrinity Framework
 
 ## Core Concept
-Intrinity combines "infinity" and "trinity" to describe a three-part system that transcends simple duality. It represents a deeper understanding of how three interconnected elements create a complete strategic framework.
+The concept of "Intrinity" describes a triadic system that transcends simple duality. It represents a deeper understanding of how three interconnected elements create a complete strategic framework.
+
+The word intrinity itself, is a combination of "infinity" and "trinity". It comes from the song [Intrinity](https://www.youtube.com/watch?v=Q-HupYg69P0) by Traumprinz. The sample vocal of the song is what inspired the idea.
 
 ## Fundamental Structure
-1. **Base Components**
+**Base Components**
    - Core: The fundamental element
-   - Base Space: Two opposing but complementary modes
-   - Pivot: The transformative element that enables dynamic equilibrium
+   - Base Space: Two opposing but complementary states
+   - Pivot: The transformative element that enables dynamic equilibrium between states
 
-2. **Key Properties**
+**Key Properties**
    - Transcendence of Duality: Goes beyond simple opposition or compromise
    - Dynamic Equilibrium: Maintains stability through active interaction
    - Dimensional Complexity: Each layer adds new strategic dimensions
 
 ## Universal Examples
+This is where the song comes into play.
+
 ```
 Core → Direct Support → Technical Layer → Emergent Layer
 
-Nuclear Force:
-- Core: Nuclear Force
-- Base Space: Proton ↔ Electron
-- Pivot: Neutron (enables nuclear stability)
+Aspects of Being:
+- Core: Human
+- Base Space: Mind ↔ Body
+- Pivot: Soul (transcendent element)
 
 Electromagnetic:
 - Core: Electromagnetic Field
 - Base Space: Positive ↔ Negative charge
 - Pivot: Ground (enables flow/balance)
 
-Time:
-- Core: Time itself
-- Base Space: Past ↔ Future
-- Pivot: Present (enables transition)
+Nuclear Force:
+- Core: Nuclear Force
+- Base Space: Proton ↔ Electron
+- Pivot: Neutron (enables nuclear stability)
+
+Family:
+- Core: Nuclear family unit
+- Base Space: Man ↔ Woman
+- Pivot: Child (forms the family together)
+
+Legal System
+- Core: Court case
+- Base Space: Plaintiff ↔ Defendent
+- Pivot: Judgement (enables conclusion)
 
 Spiritual:
 - Core: Divine Nature
 - Base Space: Father ↔ Son
 - Pivot: Holy Spirit (enables connection)
+
+Time:
+- Core: Time itself
+- Base Space: Past ↔ Future
+- Pivot: Present (enables transition)
 
 Eastern Philosophy:
 - Core: Qi (fundamental energy)
@@ -44,7 +63,7 @@ Eastern Philosophy:
 - Pivot: Jung (enables transformation)
 ```
 
-## Mathematical Framework
+## Mathematical Frameworks
 
 ### Logical Operators
 ```
@@ -56,7 +75,7 @@ yi = yin
 ya = yang
 ju = jung
 
-Jung = Vector field over (Yi, Ya) space
+ju = vector field over (Yi, Ya) space
 ```
 
 ### Properties of Jung as Pivot Operator
