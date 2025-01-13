@@ -1,7 +1,3 @@
-
-
-
-
 ### ez mode
 apparently these companies have software engineers who do nothing
 

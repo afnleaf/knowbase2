@@ -1,4 +1,5 @@
 # learning python
+[reference](https://www.pythoncheatsheet.org/)
 
 data in -> function -> data out
 
@@ -26,8 +27,9 @@ there are libraries you can use that call fast code
 - tuples
 
 ## control flow
+- conditional operators, comparison, boolean
 - if/else/elif, switch
-- loops
+- loops, while, for, range, break, continue
 - functions
 - modules
 

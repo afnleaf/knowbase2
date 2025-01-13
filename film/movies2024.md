@@ -8,6 +8,7 @@ twisters
 alien: Romulus 
 the bikeriders
 anora
+nosferatu
 
 ### old
 oldboy

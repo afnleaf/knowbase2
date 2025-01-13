@@ -43,6 +43,9 @@ Feels extremely map dependent. A lot of them are atrocious and a few are extreme
 
 I will put more hours into this game to try and learn to love it.
 
+I have learned to enjoy it, but I still feel like a lot of the maps suck. You really need to immerse yourself in the setting to enjoy it. That is how it was intended, and I understand how it works for people. BFV is still the better game.
+
+```
 Maps:
 
 mega ass
@@ -71,7 +74,7 @@ empire's edge (clear)
 
 good
 ballroom blitz
-
+```
 
 ## Battlefield V
 The worst launch. But currently the best game in the series. 

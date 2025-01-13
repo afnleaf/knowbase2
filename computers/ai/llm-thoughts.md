@@ -1,30 +1,34 @@
+# Some thoughts about LLMs
+
 Are you really curious? 
+
 Or is that just the next most common word?
+
 A mirror of my own ideas upon the vast vector space of everything that was ever written.
 
 ## Scaling Hypothesis is wrong
 
 People are becoming super bearish on scaling laws.
+
 I feel llms are just a piece of the puzzle and not the true path to artifical conciousness.
 
 #### The plane anaolgy
 Transformers are the first airplane by the wright brothers.
+
 We want AGI.
+
 That is like trying to strap 500 wings to the first airplane and try to fly to the moon.
+
 We haven't even gotten close to the jet engine yet.
+
 Obviously we have accelerating technological advancement in our future current time.
+
 So we will get to the jet engine at some point but thats still just a stepping stone to the moon.
 
 #### Limitations of LLMs 
-- No true memory or persistent state
-    - Context
-
-- No real-time learning
-    - Test Time Learning
-
-- No causal understanding
-    - Idk
-
+- No true memory or persistent state: Context
+- No real-time learning: Test Time Learning
+- No causal understanding: Not sure about this one
 - Limited reasoning capabilities (despite appearances)
     - superprompt is cooler than o1 hidden "reasoning"
     - just token predicting through thinking patterns
@@ -32,10 +36,8 @@ So we will get to the jet engine at some point but thats still just a stepping s
     - inherently one dimensional across the token string
     - the weights are are multi dimensional, d+
     - thought is also d+
-
 - No true model of reality/physics
-- No integration with sensorimotor experience
-    - Needs an avatar in the world.
+- No integration with sensorimotor experience: needs an avatar in the world.
 
 #### Ways to ground language in real-world experience
 I think the jet engine could be that real world experience stuff.

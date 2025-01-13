@@ -1,5 +1,4 @@
 # Future of UX on the web
-
 - Desktops
 - Laptops
 - Phones

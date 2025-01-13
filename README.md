@@ -9,23 +9,4 @@ must start writing thoughts down
 
 the notepad can not be synchronized
 
-## categories
-
-- games
-    - [[/pokemon/pokemon]]
-    - [[deadlock]]
-- [[computers]]
-    - [[ai]]
-- media
-    - [[music]]
-    - [[film]]
-
-
-
-
-
-
-
-
-
-
+need to figure out how to link everything

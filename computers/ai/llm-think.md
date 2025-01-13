@@ -11,7 +11,6 @@ ideas to explore:
 - world models to ground axioms
 - gödelian synethesize/dialectical process
 
-
 what we need:
 - open source model weights
 - custom inference

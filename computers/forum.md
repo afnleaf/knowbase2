@@ -1,5 +1,4 @@
-# alternative public square
-
+# Alternative Public Square
 there have been many social media websites over the years
 - 4chan used to be fun but then you grow up
 - Reddit lacks the sauce, I just don't get the point of using it

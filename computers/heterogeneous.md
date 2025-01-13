@@ -1,6 +1,14 @@
 # Distributed Heterogeneous Computing Research
+The core idea was to democratize access to compute. If there was a way to connect any type of computer together to create a network. Then get the network to collectively perform computation. 
 
-## Links
+Scale would be the key. Imagine how many devices there are on the planet. If each device could spare 0.5% to 1% of its computing power and you could choose to channel that power in a specific way, you could have one of the most powerful computers on the planet. The energy cost would be entirely distributed, almost negligable. How many garbage processes are used to run advertisements, trackers, and other intrusive stuff that nobody wants but can't use a modern computer without. 
+
+We live in a future of tech oligarchs who control the majority of explicit AI computing resources. However, we the people still have so much computing power, we just have no mechanism to pool it together.
+
+How this network could actually function, I am not sure, it seems like a problem that would require many top minds and interdiscplenary skills to figure out. A lot of road blocks probably.
+
+
+### Links
 
 https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture
 

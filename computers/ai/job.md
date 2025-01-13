@@ -14,20 +14,19 @@ Relevant Roles:
     ├── ML Engineer
     └── Research Engineer
 
-Research Path
-University labs working on game AI
-Companies like DeepMind (they do lot of game-based AI research)
-Could start with publishing your auto-spectator work
+- Research Path
+- University labs working on game AI
+- Companies like DeepMind (they do lot of game-based AI research)
+- Could start with publishing your auto-spectator work
 
+- Independent Development
+- Start building the aim vector project
+- Document progress/share on GitHub
+- Could lead to opportunities or collaborations
 
-Independent Development
-Start building the aim vector project
-Document progress/share on GitHub
-Could lead to opportunities or collaborations
-
-My combination of skills is actually quite valuable:
-Programming experience
-Computer vision knowledge
-Pro gaming/coaching background
-Understanding of game theory
-Practical project experience
+- My combination of skills is actually quite valuable:
+- Programming experience
+- Computer vision knowledge
+- Pro gaming/coaching background
+- Understanding of game theory
+- Practical project experience
