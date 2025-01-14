@@ -27,3 +27,7 @@ From my perspective the core problem in OW is the sustain, this has not been add
 
 I fail to see how Marvel Rivals challenges this dynamic in any capacity. 
 
+ToDo:
+Genji/Tracer are what made Overwatch, itself. It got lost somewhere on its journey.
+
+Deadlock is a proper synthesis of the hero shooter genre and mobas.

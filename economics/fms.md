@@ -746,6 +746,37 @@ System must maintain that murder is wrong (it is), but cannot explain why health
 
 We need to strike as the cracks begin to open. The seeds must be sown now.
 
+
+## Technofeudalism
+Yanis Varoufakis, thank you for writing about this.
+
+```
+Capitalism -----> Technofeudalism
+C ----> TF
+
+Socialism ------> Totalitarian Dictatorship
+S ----> TD
+
+along a time axis t
+
+To avoid the problem with both, apply the homeostatic dialectic.
+(Thesis <--> Antithesis) <--> Homeostasis
+
+An equilibrium state of both systems balances them out. 
+
+(C <--> S) <--> ???
+Where ??? is our unified theory, currently called Free Market Socialism.
+
+Could you apply the intrinity theory to this
+
+C <-----> S
+     |
+     |
+    ???
+
+To transcend the system. There is some concept we are missing?
+```
+
 ## Axiomatic Immutability failures
 First page of macro econ 101 was about perfectly rational actors. You have to assume this for all the models to work. Ok? well, then your models are wrong lmao idk what to tell you.
 
@@ -797,5 +828,7 @@ Benoit Mandelbrot
 Hegel
 Norbert Wiener
 Marx
+Stafford Beer
+Complexity - Mitchell Waldrop
 
 
