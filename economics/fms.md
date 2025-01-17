@@ -1,4 +1,5 @@
-# Free Markets Must Evolve, a pluralistic economic theory
+# Free Markets Must Evolve
+## a pluralistic economic theory
 Free markets are good way to allocate resources.
 
 The concept of markets is ancient. Only over the last couple hundred years has it become synoymous with capitalism. This ideology, which has chained it in the name of freedom.
@@ -8,49 +9,6 @@ Free markets are not running at peak efficiency under the current neo liberal ca
 Markets run even worse under libertarianism, eg Argentina under Milei. 54% of the population lives under poverty line. People are travelling to Chile to buy their basic needs. It would be a comical farce if not for the scale of the suffering.
 
 Idea: A socialist system allows for the freest markets possible.
-
-## Potential Format
-I. Theoretical Foundation
-   - Core Axioms
-   - Mathematical Framework
-   - Key Definitions
-   - System Requirements
-
-II. Market Analysis
-    - Traditional Market Theory Critique
-    - Elasticity Problems
-    - Basic Needs Markets
-    - Information Asymmetry
-
-III. Proposed Solutions
-     - Basic Needs Decommodification
-     - Enterprise Democracy
-     - Information Transparency
-     - Resource Sustainability
-
-IV. Implementation Framework
-    - Minimal Sufficient Structure
-    - Core Rules
-    - Expected Outcomes
-    - Transition Strategy
-
-V. Historical Analysis & Evidence
-   - Past Attempts
-   - Current Examples
-   - Case Studies
-   - Predictive Models
-
-VI. Counter-Arguments & Synthesis
-    - Common Objections
-    - System Resilience
-    - Evolutionary Pathway
-
-
-### Super TLDR
-If we try full on socialism for like 20% of the economy, specifically innefficient inelastic basic needs markets. We can have freer markets across the board for everything else. 
-
-### TLDR
-Markets are powerful tools for resource allocation, but their effectiveness depends on genuine voluntary participation - something impossible when basic survival is at stake. The traditional capitalist framework, by commodifying basic needs (food, housing, healthcare), creates inherent market distortions through survival pressure, making truly "free" markets impossible. Paradoxically, a socialist foundation of decommodified basic needs and democratic economic control would enable markets to function more freely and efficiently than under capitalism. This isn't about central planning, but rather about creating the minimal sufficient structure for maximum economic freedom. By eliminating survival coercion, establishing enterprise democracy, and ensuring market transparency, we can create markets where decisions are truly voluntary, information flows freely, and innovation is driven by genuine interest rather than desperation. This synthesis preserves the efficiency of markets while eliminating their coercive elements, offering a path beyond both anarchist chaos and authoritarian control.
 
 ## The Fundamental Critique
 Which markets matter the most for society to function? Basic needs. These are markets for inelastic goods, and they intrinsically cannot be free. This is currently a theory but might as well be an axiom based on historical analysis. Look at the state of all the markets used to allocate the resources found in the bottom rungs of Maslow's hierarchy of basic needs.
@@ -126,7 +84,7 @@ Basic needs markets entangle with labor markets and commodity markets. Decommodi
 
 
 ## Minimally Sufficient Structure
-The pareto optimal point of freedom and economic outcomes.
+There exists a pareto optimal point of freedom and economic outcomes.
 
 Structure enables freedom:
 - simple rules create predictable frameworks
@@ -263,105 +221,6 @@ Investment Markets:
 - Sustainable growth
 
 
-## System Analysis
-If we examine our current axioms by looking at the fundamental incompleteness in our market rule framework we expand our system.
-
-1. Current Axiom Limitations
-```
-Current_Framework = {
-    Basic_Needs_Rule,
-    Enterprise_Democracy_Rule,
-    Market_Information_Rule,
-    Resource_Rule,
-    Anti_Monopoly_Rule
-}
-
-Unprovable_Statements = {
-    Innovation_Generation,
-    Cultural_Evolution,
-    Value_Creation,
-    Knowledge_Formation
-}
-```
-
-2. Framework Expansion:
-
-A. Innovation Axiom
-```
-Old: Innovation = f(market_incentives)
-New: Innovation = f(market_incentives, cultural_freedom, knowledge_access)
-Expansion: Add knowledge commons rule
-```
-
-B. Value Creation Axiom
-```
-Old: Value = market_price
-New: Value = market_price + social_utility + ecological_impact
-Expansion: Add value measurement framework
-```
-
-C. Cultural Evolution
-```
-Old: Culture = external_to_system
-New: Culture = f(economic_relations)
-Expansion: Add cultural feedback mechanisms
-```
-
-3. New Rule Emergences:
-
-1. Knowledge Commons Rule
-```
-Rule: Knowledge must be openly accessible
-Implementation:
-- Public research funding
-- Open source requirements
-- Patent reform
-- Educational access
-Effect: Accelerates innovation
-```
-
-2. Value Measurement Rule
-```
-Rule: Multi-dimensional value tracking
-Implementation:
-- Social impact metrics
-- Ecological footprint
-- Cultural contribution
-- Knowledge generation
-Effect: Better resource allocation
-```
-
-3. Cultural Development Rule
-```
-Rule: Economic systems must support cultural flourishing
-Implementation:
-- Arts funding
-- Community spaces
-- Creative commons
-- Cultural preservation
-Effect: Enriches society
-```
-
-4. System Completeness Analysis:
-```
-for each (rule in Extended_Framework):
-    if generates_unprovable_statement(rule):
-        add_new_axiom()
-        verify_consistency()
-        measure_completeness()
-```
-
-Key Insights:
-1. Market rules need cultural dimension
-2. Value creation transcends price
-3. Knowledge commons enable innovation
-4. Cultural feedback shapes markets
-
-The expanded system shows:
-- Markets are culturally embedded
-- Innovation requires openness
-- Value is multi-dimensional
-- Knowledge is foundational
 
 
 ----
@@ -865,3 +724,150 @@ Marx
 Stafford Beer
 Complexity - Mitchell Waldrop
 
+----
+
+# Archive (NOT PART OF THE TEXT BUT COULD BE REWORKED)
+
+## System Analysis
+If we examine our current axioms by looking at the fundamental incompleteness in our market rule framework we can expand our system.
+
+1. Current Axiom Limitations
+```
+Current_Framework = {
+    Basic_Needs_Rule,
+    Enterprise_Democracy_Rule,
+    Market_Information_Rule,
+    Resource_Rule,
+    Anti_Monopoly_Rule
+}
+
+Unprovable_Statements = {
+    Innovation_Generation,
+    Cultural_Evolution,
+    Value_Creation,
+    Knowledge_Formation
+}
+```
+
+2. Framework Expansion:
+
+A. Innovation Axiom
+```
+Old: Innovation = f(market_incentives)
+New: Innovation = f(market_incentives, cultural_freedom, knowledge_access)
+Expansion: Add knowledge commons rule
+```
+
+B. Value Creation Axiom
+```
+Old: Value = market_price
+New: Value = market_price + social_utility + ecological_impact
+Expansion: Add value measurement framework
+```
+
+C. Cultural Evolution
+```
+Old: Culture = external_to_system
+New: Culture = f(economic_relations)
+Expansion: Add cultural feedback mechanisms
+```
+
+3. New Rule Emergences:
+
+1. Knowledge Commons Rule
+```
+Rule: Knowledge must be openly accessible
+Implementation:
+- Public research funding
+- Open source requirements
+- Patent reform
+- Educational access
+Effect: Accelerates innovation
+```
+
+2. Value Measurement Rule
+```
+Rule: Multi-dimensional value tracking
+Implementation:
+- Social impact metrics
+- Ecological footprint
+- Cultural contribution
+- Knowledge generation
+Effect: Better resource allocation
+```
+
+3. Cultural Development Rule
+```
+Rule: Economic systems must support cultural flourishing
+Implementation:
+- Arts funding
+- Community spaces
+- Creative commons
+- Cultural preservation
+Effect: Enriches society
+```
+
+4. System Completeness Analysis:
+```
+for each (rule in Extended_Framework):
+    if generates_unprovable_statement(rule):
+        add_new_axiom()
+        verify_consistency()
+        measure_completeness()
+```
+
+Key Insights:
+1. Market rules need cultural dimension
+2. Value creation transcends price
+3. Knowledge commons enable innovation
+4. Cultural feedback shapes markets
+
+The expanded system shows:
+- Markets are culturally embedded
+- Innovation requires openness
+- Value is multi-dimensional
+- Knowledge is foundational
+
+## old trash
+
+### Super TLDR
+If we try full on socialism for like 20% of the economy, specifically innefficient inelastic basic needs markets. We can have freer markets across the board for everything else. 
+
+### TLDR
+Markets are powerful tools for resource allocation, but their effectiveness depends on genuine voluntary participation - something impossible when basic survival is at stake. The traditional capitalist framework, by commodifying basic needs (food, housing, healthcare), creates inherent market distortions through survival pressure, making truly "free" markets impossible. Paradoxically, a socialist foundation of decommodified basic needs and democratic economic control would enable markets to function more freely and efficiently than under capitalism. This isn't about central planning, but rather about creating the minimal sufficient structure for maximum economic freedom. By eliminating survival coercion, establishing enterprise democracy, and ensuring market transparency, we can create markets where decisions are truly voluntary, information flows freely, and innovation is driven by genuine interest rather than desperation. This synthesis preserves the efficiency of markets while eliminating their coercive elements, offering a path beyond both anarchist chaos and authoritarian control.
+
+## Potential Format
+I. Theoretical Foundation
+   - Core Axioms
+   - Mathematical Framework
+   - Key Definitions
+   - System Requirements
+
+II. Market Analysis
+    - Traditional Market Theory Critique
+    - Elasticity Problems
+    - Basic Needs Markets
+    - Information Asymmetry
+
+III. Proposed Solutions
+     - Basic Needs Decommodification
+     - Enterprise Democracy
+     - Information Transparency
+     - Resource Sustainability
+
+IV. Implementation Framework
+    - Minimal Sufficient Structure
+    - Core Rules
+    - Expected Outcomes
+    - Transition Strategy
+
+V. Historical Analysis & Evidence
+   - Past Attempts
+   - Current Examples
+   - Case Studies
+   - Predictive Models
+
+VI. Counter-Arguments & Synthesis
+    - Common Objections
+    - System Resilience
+    - Evolutionary Pathway
