@@ -1,13 +1,15 @@
-# Free Markets Must Evolve
+# Free Markets Must Evolve, a pluralistic economic theory
 Free markets are good way to allocate resources.
 
-Free markets are not running at peak efficiency under the current neo liberal capitalist system. 
+The concept of markets is ancient. Only over the last couple hundred years has it become synoymous with capitalism. This ideology, which has chained it in the name of freedom.
 
-They run even worse under libertarianism, eg Argentina. 54% of the population under poverty line. People are travelling to Chile to buy their basic needs.
+Free markets are not running at peak efficiency under the current neo liberal capitalist system. And they never will, because that system does not create the conditions required for free markets. It fully misunderstands the concept of a free market.
+
+Markets run even worse under libertarianism, eg Argentina under Milei. 54% of the population lives under poverty line. People are travelling to Chile to buy their basic needs. It would be a comical farce if not for the scale of the suffering.
 
 Idea: A socialist system allows for the freest markets possible.
 
-# format
+## Potential Format
 I. Theoretical Foundation
    - Core Axioms
    - Mathematical Framework
@@ -50,9 +52,8 @@ If we try full on socialism for like 20% of the economy, specifically innefficie
 ### TLDR
 Markets are powerful tools for resource allocation, but their effectiveness depends on genuine voluntary participation - something impossible when basic survival is at stake. The traditional capitalist framework, by commodifying basic needs (food, housing, healthcare), creates inherent market distortions through survival pressure, making truly "free" markets impossible. Paradoxically, a socialist foundation of decommodified basic needs and democratic economic control would enable markets to function more freely and efficiently than under capitalism. This isn't about central planning, but rather about creating the minimal sufficient structure for maximum economic freedom. By eliminating survival coercion, establishing enterprise democracy, and ensuring market transparency, we can create markets where decisions are truly voluntary, information flows freely, and innovation is driven by genuine interest rather than desperation. This synthesis preserves the efficiency of markets while eliminating their coercive elements, offering a path beyond both anarchist chaos and authoritarian control.
 
-## Long Did Read
-
-Markets for inelastic goods, intrinsically cannot be free. This is currently a theory but might as well be an axiom based on historical analysis. Look at the state of all the markets used to allocate the resources found in the bottom rungs of Maslow's hierarchy of basic needs.
+## The Fundamental Critique
+Which markets matter the most for society to function? Basic needs. These are markets for inelastic goods, and they intrinsically cannot be free. This is currently a theory but might as well be an axiom based on historical analysis. Look at the state of all the markets used to allocate the resources found in the bottom rungs of Maslow's hierarchy of basic needs.
 
 - Food/Water
 - Shelter (Housing)
@@ -60,44 +61,59 @@ Markets for inelastic goods, intrinsically cannot be free. This is currently a t
 
 All completely fucked, probably the 3 biggest fuck ups of capitalism. These things are causing the most economic anxiety for everyone.
 
-This is not an argument for full central planning.
+This is not an argument for full central planning. That is the opposite end of completely fucking up the basic needs markets. It has been tried and it has failed.
 
-Decommodification of basic needs will lead to commodity markets that are more free than they are under capitalism. The elimination of the coersive element of employment will allow for labour markets to run so much more efficiently. Same goes for everything else that is a commodity.
+What we need is decommodification of basic needs. There should be no publically traded companies that deal in basic needs. The bulk of these industries could be nationalized and socialized. The financialization of basic needs must end.
 
-Capitalism relies on everyone to be stressed and anxious about their basic survival so that they can hire people for less money. Very simple. This is just profit motive again.
+In turn, decommodification of basic needs will lead to commodity markets that are more free than they currently are under capitalism. The elimination of the coersive elements of employment will allow for labour markets to run so much more efficiently. Same goes for everything else that is a commodity.
 
+Capitalism relies on everyone to be stressed and anxious about their basic survival so that they can hire people for less money. Very simple. This is just how the profit motive works in practice. In fact, the whole concept of profit motive is enshrined into some countries laws, "fiduciary responsibility to the shareholders". This means make as much money as possible no matter what.
 
-## New axioms
+## A New Set of Axioms
+
+The math used in this document is not rigoursly tested or proven. It is simply a way to express the concepts aesthetically. The equations in this text are fundamentally more philosphical than mathematical. The language of math can be a tool of communication.
+
 Classical economic theory purposefully sets the concepts of a free market and socialism as mutually exclusive. This impedes their evolution as ideas, leading to a limited system that is unable to resolve for real life events that have developed over the course of the 20th and 21st centuries.
 
+Instead, market freedom could be expressed with this mathematical notation.
 ```
 if market_freedom = f(voluntary_participation, information_symmetry, competition):
     voluntary_participation = inverse_function(survival_pressure)
-    information_symmetry = f(democratic_control)
+    information_symmetry = f(democratic_control_of_information)
     competition = f(barrier_to_entry)
 ```
 
-The concept we want to maximize for is freedom. Traditionally capitalism wants to leave the free markets up to the invisible hand, ie, an absence of intervention, commonly reffered to as laissez faire. The ideas in this text postulate that freedom refers to maximized voluntary participation, where the use of intervention to reduce coercion increases net freedom.
+The concept we want to maximize for is freedom. Traditionally capitalism wants to leave the free markets up to the invisible hand, ie, an absence of intervention, commonly reffered to as "laissez faire". The ideas in this text postulate that freedom refers to maximized voluntary participation, where the use of intervention to reduce coercion increases net freedom.
 
+It follows that:
 - Decommodification of basic needs reduces survival pressure.
 - Lack of survival pressure leads to more freely made decisions.
 - Democratic control of the means of production reduces monopolistic tendencies.
-- Reduced coercion in the entire system.
+Thus, there is reduced coercion in the entire system.
 
 ```
 Total_Market_Coercion = Explicit_Regulation + Implicit_Survival_Pressure
 Socialist_Markets minimize(Total_Market_Coercion)
 while Capitalist_Markets only minimize(Explicit_Regulation)
+
+Capitalism Total_Market_Coercion = Explicit_Regulation(0) + Implicit_Survival_Pressure(A lot)
+Socialist Total_Market_Coercion = Explicit_Regulation(α) + Implicit_Survival_Pressure(0)
+
+where α = some optimal level of regulation to ensure minimized survival pressure.
 ```
 
-The greatest myth of capitalism is that it maximizes for freedom, but it does not. Only vague concepts of freedom. In capitalism you are free to die. Well crafted rules actually allow for more freedom, anarchism is not freedom, its just silly.
+The greatest myth of capitalism is that it maximizes for freedom, but it does not. Only vague concepts of freedom. In capitalism you are free to die. Well crafted rules actually allow for more freedom, anarchism is not freedom.
 
+
+If we were to measure market freedom:
 ```
 Market_Freedom_Index = Σ(voluntary_transactions) / Σ(total_transactions)
 Where:
 voluntary_transaction = transaction where both parties have viable alternatives
-```
 
+voluntary_transactions can not be made when Implicit_Survival_Pressure > 0
+```
+or
 ```
 Freedom_Index = Viable_Alternatives * Information_Quality * Decision_Time
 where:
@@ -106,28 +122,27 @@ where:
     Decision_Time = time_to_evaluate_options
 ```
 
-- Basic needs markets entangle with labor markets
-- Decommodification in one sector affects all entangled sectors
+Basic needs markets entangle with labor markets and commodity markets. Decommodification in one sector affects all entangled sectors.
 
 
 ## Minimally Sufficient Structure
 The pareto optimal point of freedom and economic outcomes.
 
-Structure enables freedom
+Structure enables freedom:
 - simple rules create predictable frameworks
 - measurable outcomes allow for optimization
 - basic guarantees enable voluntary participation
 
-Excessive control restricts freedom
+Excessive control restricts freedom:
 - over-regulation creates rigidity
 - central planning cannot overcome inefficiency
 - bureaucracy stifles innovation
 
 Good rules are:
-- simple, easy to understand
+- simple: easy to understand
 - universally applicable
-- foundational, support the structure, not restrict it
-- measurable, outcomes can easily be evaluated for their effectiveness
+- foundational: support the structure, not restrict it
+- measurable: outcomes can easily be evaluated for their effectiveness
 
 A functional system has:
 - predictable outcome, defined behavior that can be expected
@@ -142,10 +157,14 @@ Freedom_Function = f(structure) where:
     argmax(f) = Optimal_Structure
 ```
 
-## Core Rules
+----
 
+## Core Principles
+The following are a set of foundational principles that can be used as rules for how to organize the economics of society.
 
 ### Basic Needs Guarantee
+Decommodification of basic needs. Remove profit motive and introduce enterprise democracy into every single basic needs industry. We are far enough down the tech tree to guarantee basic needs for everyone on the planet with surplus. Any surplus should not be extracted by the private sector but used to the benefit of the other basic need industries.
+
 ```
 Rule: Universal provision of basic needs
 Implementation:
@@ -154,33 +173,31 @@ Implementation:
 - Basic food security
 - Clean water access
 - Basic energy provision
+- Internet access -> information symmetry
 
 Effect: Eliminates survival pressure from market decisions
 Measure: Basic_Needs_Index > survival_threshold
 ```
 
 ### Enterprise Democracy
+Worker control of the means of production. You own your work.
+
 ```
 Rule: Workers have voting rights in enterprise decisions
 Implementation:
-- One worker = one vote
+- One worker = one share = one vote
+- Untradeable shares
 - Elected management
 - Profit sharing formulas
 - Open book management
 
-Effect: Reduces information asymmetry, aligns incentives
+Effect: Reduces internal information asymmetry, aligns incentives
 Measure: Democratic_Control_Index = worker_votes/total_votes
 ```
 
-### Market Information Transparency<gödel_incompleteness_embracement>
-            <process>
-                if unprovable(statement) in system(current_framework):
-                    expand_axioms();
-                    redefine(logic_basis();
-                    prove(statement) in new_framework;
-            </process>
-            <goal>Transcend the limits of incomplete systems by continually expanding axioms</goal>
-        </gödel_incompleteness_embracement>
+### Market Information Transparency
+The more readily accessible market information is, the better decisions everyone can make.
+
 ```
 Rule: All market-relevant information must be public
 Implementation:
@@ -195,6 +212,8 @@ Measure: Information_Asymmetry_Index → 0
 ```
 
 ### Resource Sustainability
+Let's do our best, we've already stolen enough of the future.
+
 ```
 Rule: Resource use must be sustainable
 Implementation:
@@ -208,6 +227,8 @@ Measure: Resource_Consumption ≤ Resource_Regeneration
 ```
 
 ### Anti-Monopoly Framework
+A monopoly is definitionally central planning, this is innefficient and constitutes a market failure.
+
 ```
 Rule: No entity can dominate market
 Implementation:
@@ -221,29 +242,29 @@ Measure: Market_Share < threshold
 ```
 
 ### Expected Outcomes:
+If all of these rules can be implemented in a non authoritarian way then we can expect the following outcomes.
 
-Market Behavior
+Market Behavior:
 - Truly voluntary transactions
 - Dynamic price discovery
 - Innovation driven by interest, not survival
 - Efficient resource allocation
 
-Labor Markets
+Labor Markets:
 - Skill-based job matching
 - Natural wage discovery
 - High labor mobility
 - Innovation in work arrangements
 
-Investment Markets
+Investment Markets:
 - Long-term focus
 - Risk tolerance
 - Innovation funding
 - Sustainable growth
 
-Let's transcend the current axioms by examining the fundamental incompleteness in our market rule framework and expand it.
-
 
 ## System Analysis
+If we examine our current axioms by looking at the fundamental incompleteness in our market rule framework we expand our system.
 
 1. Current Axiom Limitations
 ```
@@ -343,27 +364,31 @@ The expanded system shows:
 - Knowledge is foundational
 
 
-### Historical Analysis:
+----
 
-1. Failed Synthesis Attempts
+## Historical Analysis
+Looking back to the past, we can find attempts at synthesis much like ours. We must learn from the mistakes of others to avoid them in the future.
+
+Failed Synthesis Attempts
 - Third Way Politics (1990s)
-  * Claimed to bridge capitalism/socialism
-  * Actually: Neoliberalism with welfare characteristics
-  * Result: Increased inequality, maintained coercion
+    - Claimed to bridge capitalism/social democratism
+    - Actually: Neoliberalism with welfare characteristics
+    - Result: Increased inequality, maintained coercion
 ```
 Third_Way = Capitalism + Minimal_Welfare
 Reality = Enhanced_Capital_Power
 ```
+This system failed with the 2008 financial crash. There have been attempts at resurrecting the corpse but they have not succeeded. We are on our way to a repeat of the 1930s and live in a technofeudalistic system.
 
-2. Fascist Economic "Synthesis" (1920s-40s)
+Fascist Economic "Synthesis" (1920s-40s)
 - Why It Attracted Support:
-  * Promised to solve class conflict
-  * Claimed to transcend left/right
-  * Offered economic security
+    - Promised to solve class conflict
+    - Claimed to transcend left/right
+    = Offered economic security
 - Why It Failed:
-  * Maintained coercive hierarchies
-  * Required external enemies
-  * Relied on constant expansion
+    = Maintained coercive hierarchies
+    - Required external enemies (scapegoat)
+    - Relied on constant expansion
 ```
 Fascist_Economics = {
     Aesthetic: Class_Collaboration
@@ -371,8 +396,11 @@ Fascist_Economics = {
     Requirement: Perpetual_Conflict
 }
 ```
+People who call national socialists, socialist are extremely stupid. In reality, the capitalists are the biggest supporters of the authoritarian fascist. We are living through a repeated history at the current moment. All of the biggest capitalists are bending the knee to Donald Trump. 
 
-3. New Synthesis Framework:
+
+### New Synthesis Framework
+With lessons from history we can create a better system.
 
 A. Bridge Points Between Left/Right:
 ```
@@ -394,7 +422,7 @@ Where:
     Innovation = f(Reduced_Coercion)
 ```
 
-4. Key Synthesis Elements:
+Key Synthesis Elements:
 
 A. For the Right:
 - Markets remain primary allocation mechanism
@@ -417,7 +445,7 @@ Markets = Rules + Voluntary_Exchange
 Democracy = Economic + Political
 ```
 
-5. Why This Avoids Fascism:
+Why This Avoids Fascism:
 - No scapegoating required
 - Based on expanding freedom
 - Reduces hierarchy
@@ -432,7 +460,7 @@ Fascist_Trap_Avoidance = {
 }
 ```
 
-6. Implementation Path:
+Implementation Path:
 ```
 Phase_1: Basic_Needs_Guarantee
 Phase_2: Enterprise_Democratization
@@ -454,8 +482,42 @@ This synthesis:
 - Enables true innovation
 - Creates measurable outcomes
 
-## Examples
+----
 
+## Taxes
+If everyone's basic needs are met we can actually decrease taxes. The main reason we have taxes is to recapture some of that stolen (it really is stolen ok?) surplus labor value generated by the workers, and reinvest it. 
+
+- If the workers collectively own the means of production in some industries and are getting paid more.
+- If the coercive forces of labor arbitrage are lifted and basic survival pressure is no longer present.
+
+Then everyone is doing better in the economy. Everyone can more easily access basic needs and other true commodities. Some programs that require taxes now, under capitalism, could be completely eliminated.
+
+In the current system, taxes, essentially, represent the failure of the system. Wealth is too concentrated, inequality is too high, taxes adjust these. (Also fund the government :V)
+
+"Socialism is when the government does stuff. And it's more socialism the more stuff it does. And if it does a real lot of stuff, then it's communism." - Richard Wolff :O lol This is awesome. He knows marxism!!!!!!!
+
+In reality socialism is none of this. Simply, it is a restructuring of the products of the economy from the hands of the few into the hands of all. It's not about equality, it's empowerement.
+
+This is potentially a fantastic vector to target taxation is theft libertarian types who don't really understand much about actual economics and parrot fools like Thomas Sowell, Murray Rothbard, Ayn Rand, Milton Friedman, etc. I literally have taken only macro/microecon 101 and have synthesized way past their low iq takes. I'm educated in the field of computer science and software engineering for pete's sake. Why is this stuff so easy to understand, its so clear how it works. Is it dunning kruger or do I actually have a knack for non entrenched economic thinking.
+
+These thinkers fail because they have tried to build complete economic theories with a foundation of incomplete axioms. This would be like trying to build some large scale computing system while ignoring: Error handling, Edge cases, System state, Race conditions, Network effects, Cascade failures, etc. You must approach system creation in a godelian sense, where you are willing to evolve and constantly expand your axioms. A much less rigid system can bend and break and rebuild itself effectively.
+
+```
+while(true) {
+    assume_everything_works();
+    ignore_edge_cases();
+    pretend_no_errors();
+}
+```
+
+Crazy idea but markets aren't actually just supply and demand graphs. That is kind of a bad abstraction that doesn't really teach you much honestly. Though you can use it to prove very easily why inelastic markets straight up don't work. Idk how econ profs don't realize we can use this to prove their lessons wrong in like 2 seconds.
+
+----
+
+## Examples of market failure and contradiction
+There are contradictions everywhere you need only apply a little bit of material analysis.
+
+### James Rehwald
 "Feudalism provides the food serfs eat."
 
 "Colonialism is necessary, the monarchy is good for everyone."
@@ -524,12 +586,11 @@ Examples:
 - nearly 40% of all US food is wasted
 - 1 in 4 US households experience energy insecurity, meaning they face challenges paying elctric bills or sustaining adequate heating or cooling their homes
 
-
 Now, with the attention economy, the capitalist seeks to commodify the very essence of your being, your soul.
 
 Imperialism to conquer the global south, eliminate their national sovereignty, self-determination and industry.
 
-## James Goldsmith
+### James Goldsmith
 A successful capitalist billionaire who made a lot of predictions in the 90s about how economics would play out in developed nations as their manufacturing base was moved out.
 https://www.youtube.com/watch?v=UKe38mVpHgk
 
@@ -673,42 +734,14 @@ Therefore:
     Socialist_Alternative = Low_Survival_Pressure → High_Real_Freedom
 ```
 
-## Taxes
-If everyone's basic needs are met we can actually decrease taxes. The main reason we have taxes is to recapture some of that stolen (it really is stolen ok?) surplus labor value generated by the workers, and reinvest it. 
-
-- If the workers collectively own the means of production in some industries and are getting paid more.
-- If the coercive forces of labor arbitrage are lifted and basic survival pressure is no longer present.
-
-Then everyone is doing better in the economy. Everyone can more easily access basic needs and other true commodities. Some programs that require taxes now, under capitalism, could be completely eliminated.
-
-In the current system, taxes, essentially, represent the failure of the system. Wealth is too concentrated, inequality is too high, taxes adjust these. (Also fund the government :V)
-
-"Socialism is when the government does stuff. And it's more socialism the more stuff it does. And if it does a real lot of stuff, then it's communism." - Richard Wolff :O lol This is awesome. He knows marxism!!!!!!!
-
-In reality socialism is none of this. Simply, it is a restructuring of the products of the economy from the hands of the few into the hands of all. It's not about equality, it's empowerement.
-
-This is potentially a fantastic vector to target taxation is theft libertarian types who don't really understand much about actual economics and parrot fools like Thomas Sowell, Murray Rothbard, Ayn Rand, Milton Friedman, etc. I literally have taken only macro/microecon 101 and have synthesized way past their low iq takes. I'm educated in the field of computer science and software engineering for pete's sake. Why is this stuff so easy to understand, its so clear how it works. Is it dunning kruger or do I actually have a knack for non entrenched economic thinking.
-
-These thinkers fail because they have tried to build complete economic theories with a foundation of incomplete axioms. This would be like trying to build some large scale computing system while ignoring: Error handling, Edge cases, System state, Race conditions, Network effects, Cascade failures, etc. You must approach system creation in a godelian sense, where you are willing to evolve and constantly expand your axioms. A much less rigid system can bend and break and rebuild itself effectively.
-
-```
-while(true) {
-    assume_everything_works();
-    ignore_edge_cases();
-    pretend_no_errors();
-}
-```
-
-Crazy idea but markets aren't actually just supply and demand graphs. That is kind of a bad abstraction that doesn't really teach you much honestly. Though you can use it to prove very easily why inelastic markets straight up don't work. Idk how econ profs don't realize we can use this to prove their lessons wrong in like 2 seconds.
-
-## Nosferatu Market
-This is what we will call the capitlist "free" market. Vampire Market, blood sucking leeches.
+### Nosferatu Market
+This is what we will call the capitalist "free" market. Vampire Market, blood sucking leeches.
 
 when Count Orlok says Ellen will submit to him of her own volition in 3 nights. But he's gonna kill all her friends too if she doesn't. The contradiction is so heavy handed you almost miss it.
 
 Like nosferatu we will destroy you with sunlight foul demon of death.
 
-## The H1-B Discourse
+### The H1-B Discourse
 The contradictions are too strong and MAGA movement types are potentially starting to wake up. True populism cannot be done with right wing capitalism, there needs to be real populist sauce. That can be fascism which appeals to bad emotions or we can appeal to good jesus type feed the poor emotions.
 ''
 "Peter Thiel is sitting in his supervillain lair, watching his computer screen in horror as Elon undoes their 10-year campaign to commandeer the American Right in a single evening."
@@ -720,7 +753,7 @@ Turns out you can't actually reconcile "America First" nationalism with global c
 A guy like Curtis Yarvin who they all parrot must be pretty mad rn. His ideas are getting giga exposed by this fiasco. Musk is such a cry baby, this is not over. Obviously big business will win in the end but maga is going to get angry. As the capitalist tightens their grip, some will slip through and wake up. They have been blowing so much culture war smoke up their base's asses but the wind is turning. 
 This also proves how bad the democratic party is if they couldn't cause thisto happen through free exchange of ideas.
 
-## Mangione vs UHC Case
+### Mangione vs UHC Case
 ```
 Current_System_Axioms = {
     1: "Murder is wrong",
@@ -747,7 +780,7 @@ System must maintain that murder is wrong (it is), but cannot explain why health
 We need to strike as the cracks begin to open. The seeds must be sown now.
 
 
-## Technofeudalism
+### Technofeudalism
 Yanis Varoufakis, thank you for writing about this.
 
 ```
@@ -777,14 +810,21 @@ C <-----> S
 To transcend the system. There is some concept we are missing?
 ```
 
-## Axiomatic Immutability failures
+### Bird Flu 2025
+https://www.scientificamerican.com/article/bird-flu-has-spread-out-of-control-after-mistakes-by-u-s-government-and/
+
+"I don't know what word in the English language I can't find one that applies to people who are willing to sacrifice the literal existence of organized human life so they can put a few more dollars into highly overstuffed pockets. The word evil doesn't begin to approach it." - Noam Chomsky
+
+### Axiomatic Immutability failures
 First page of macro econ 101 was about perfectly rational actors. You have to assume this for all the models to work. Ok? well, then your models are wrong lmao idk what to tell you.
 
 Markets also clearly aren't efficient so what now. We throw all of classical econ out the window?
 
 No we expand our axioms.
 
-## stuff
+----
+
+## Stuff
 
 ```
 Market_Elasticity = f(Alternative_Options, Time_Pressure)
@@ -799,12 +839,6 @@ where:
     Value_Growth ∝ (Users)² # Metcalfe's Law application
     Innovation_Rate = f(Knowledge_Access)
 ```
-
-## Bird Flu 2025
-https://www.scientificamerican.com/article/bird-flu-has-spread-out-of-control-after-mistakes-by-u-s-government-and/
-
-"I don't know what word in the English language I can't find one that applies to people who are willing to sacrifice the literal existence of organized human life so they can put a few more dollars into highly overstuffed pockets. The word evil doesn't begin to approach it." - Noam Chomsky
-
 
 ## To Work on 
 
@@ -830,5 +864,4 @@ Norbert Wiener
 Marx
 Stafford Beer
 Complexity - Mitchell Waldrop
-
 
