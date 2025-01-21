@@ -1,4 +1,4 @@
-# Some thoughts about LLMs
+ex# Some thoughts about LLMs
 Are you really curious? 
 
 Or is that just the next most common word?
@@ -73,5 +73,4 @@ I don't know if I am suggesting that LLMs are the soul. Maybe just the tongue, y
 
 The idea of building a body grounded in world interaction is compelling. We can then build inwards. Either way, we need all three pieces. Maybe it all needs to be built at the same time, iterating on all of it together, rather than supercharging one piece. 
 
-I am an incredible thinker when it comes to competitive video games. I have coached overwatch professionally. I want to transition these skills into AI research. I believe that there could be ground breaking discoveries found via entities controlling avatars in video game environments. Taking a less generalist approach. A shorter simulation of a slice of time, (game time could be a life or just a day). Waking up for the day. What do you dream while not playing the game? You have limited sense in video games, vision, sound, and a sort of touch.  This might be enough for world experience grounding. When I play it feels real, I even dream of controlling a hero in games. Deadlock is the game I am thinking of right now. You need a character to control. Not something like pokemon battles or chess.
 
