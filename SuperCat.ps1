@@ -58,3 +58,7 @@ function SuperCat {
 # Read-FolderContents -fp "C:\YourFolder" -fe "txt"
 # Read-FolderContents -fp "C:\YourFolder" -fe ".log" -IncludeFileName:$false
 # Read-FolderContents -fp "C:\YourFolder" -fe "cfg" -ShowSummary:$false
+
+# load the script into the shell
+# . ./SuperCat.ps1
+#  SuperCat -fp "C:\YourFolder" -fe "txt"
