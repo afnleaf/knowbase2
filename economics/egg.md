@@ -2,19 +2,19 @@
 I care about the price of eggs, not if some CEO can afford another boat.
 
 two sets of data
+
+egg:
 - the average price of eggs
 - median income
-
 try to find the portion of someone's income that is spent on eggs
 
-inverse it to reveal contradiction
-
+inverse it to reveal contradiction:
 - average price of a new luxury good (ex boat)
 - average CEO pay (of top company)
 
-if the CEOs are paying less relative to their income for boats than regular people are on eggs (throughout an entire year). Then something is incredibly wrong with the current system.
+If the CEOs are paying less relative to their income for boats than regular people are on eggs (throughout an entire year). Then something is incredibly wrong with the current system.
 
-Now, rather than looking at pure CEO average, we want to look at the CEOs who are in the top 0.1%. The CEOs who over 50% of the american workers work for. The big corporations, the publically traded ones, Walmart, Apple, Google, United Healthcare, etc. There will be a lot of normal ceos who run normal businesses and they will bring the average down. The oligarchs who will have Trump's ear, the ones flying into Mar-a-lago.
+Now, rather than looking at pure CEO average, we want to look at the CEOs who are in the top 0.1%. The CEOs who over 50% of the american workers work for. The big corporations, the publically traded ones, Walmart, Apple, Google, United Healthcare, etc. We want the oligarchs who will have Trump's ear, the ones flying into Mar-a-lago. There will be a lot of normal ceos who run normal businesses and they will bring the average down. 
 
 ## Where to find data
 Everything can most likely be found as a CSV
