@@ -701,6 +701,10 @@ where:
 
 ## To Work on 
 
+incentives for innovation without profit motives
+
+corruptuon in basic needs or nationalized industries/sectors
+
 Concept of freedom, positive/negative liberties.
 
 How to get Information symmetry in the market? Currently the advertisement ecosystem is a disaster for market information. 
