@@ -12,9 +12,10 @@ Q the amount of bits that should be used for loading the model (16, 8, 4, 3)
 1.2 is the 20% overhead
 ```
 
-Factor in the type of Q that you want
+Factor in the type of Quantization that you want
+What type of data representation are you operating with?
 - FP32 (32-bit floating point): 4 bytes per parameter
 - FP16 (half/BF16) (16-bit floating point): 2 bytes per parameter
 - INT8 (8-bit integer): 1 byte per parameter
 - INT4 (4-bit integer): 0.5 bytes per parameter
-- Tensor 16?
+- Tensors?
